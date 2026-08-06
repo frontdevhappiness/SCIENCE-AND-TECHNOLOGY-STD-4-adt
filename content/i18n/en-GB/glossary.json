@@ -1,0 +1,3867 @@
+{
+  "abnormal": {
+    "word": "abnormal",
+    "definition": "not usual or not normal",
+    "variations": [
+      "abnormal",
+      "abnormally"
+    ],
+    "emoji": "⚠️❗",
+    "id": "gl001"
+  },
+  "absorption": {
+    "word": "absorption",
+    "definition": "the process of taking in or soaking up something such as nutrients or water",
+    "variations": [
+      "absorption"
+    ],
+    "emoji": "💧⬇️",
+    "id": "gl002"
+  },
+  "accident": {
+    "word": "accident",
+    "definition": "something bad that happens by mistake and may cause harm",
+    "variations": [
+      "accident",
+      "accidents",
+      "accidental",
+      "accidentally"
+    ],
+    "emoji": "⚠️🚑",
+    "id": "gl003"
+  },
+  "acid": {
+    "word": "acid",
+    "definition": "a harmful substance made in the mouth when bacteria act on leftover food, which can damage teeth",
+    "variations": [
+      "acids"
+    ],
+    "emoji": "🧪🦷⚠️",
+    "id": "gl004"
+  },
+  "adolescence": {
+    "word": "adolescence",
+    "definition": "the stage of growing from childhood to adulthood, when the body changes quickly",
+    "variations": [
+      "adolescent",
+      "adolescents"
+    ],
+    "emoji": "🧒➡️🧑",
+    "id": "gl005"
+  },
+  "adolescent": {
+    "word": "adolescent",
+    "definition": "a young person who is no longer a child but not yet an adult",
+    "variations": [
+      "adolescent",
+      "adolescents",
+      "adolescence"
+    ],
+    "emoji": "🧒➡️🧑",
+    "id": "gl006"
+  },
+  "AIDS": {
+    "word": "AIDS",
+    "definition": "a serious condition caused by HIV that weakens the body’s ability to fight disease",
+    "variations": [
+      "AIDS"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl007"
+  },
+  "airway": {
+    "word": "airway",
+    "definition": "a passage in the body through which air moves in and out of the lungs",
+    "variations": [
+      "airway",
+      "airways"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl008"
+  },
+  "aligned": {
+    "word": "aligned",
+    "definition": "placed in a straight line or correct position",
+    "variations": [
+      "align",
+      "aligned",
+      "alignment",
+      "aligning"
+    ],
+    "emoji": "📏➡️",
+    "id": "gl009"
+  },
+  "allergy": {
+    "word": "allergy",
+    "definition": "a health problem caused when the body reacts badly to certain foods or substances",
+    "variations": [
+      "allergy",
+      "allergies",
+      "allergic"
+    ],
+    "emoji": "🤧⚠️",
+    "id": "gl010"
+  },
+  "anticlockwise": {
+    "word": "anticlockwise",
+    "definition": "Turning in the opposite direction to the hands of a clock.",
+    "variations": [
+      "anticlockwise"
+    ],
+    "emoji": "↺🕒",
+    "id": "gl011"
+  },
+  "antiretroviral": {
+    "word": "antiretroviral",
+    "definition": "a medicine used to help control HIV in the body",
+    "variations": [
+      "antiretroviral",
+      "antiretrovirals"
+    ],
+    "emoji": "💊🦠",
+    "id": "gl012"
+  },
+  "antiseptic": {
+    "word": "antiseptic",
+    "definition": "a substance used to stop germs from growing",
+    "variations": [
+      "antiseptic",
+      "antiseptics"
+    ],
+    "emoji": "🧴🦠",
+    "id": "gl013"
+  },
+  "appetite": {
+    "word": "appetite",
+    "definition": "the natural desire to eat food",
+    "variations": [
+      "appetite",
+      "appetites"
+    ],
+    "emoji": "🍽️",
+    "id": "gl014"
+  },
+  "artificial": {
+    "word": "artificial",
+    "definition": "made by people, not naturally found in nature",
+    "variations": [
+      "artificial"
+    ],
+    "emoji": "🏭💡",
+    "id": "gl015"
+  },
+  "ash": {
+    "word": "ash",
+    "definition": "the soft grey or black powder left after something has burned",
+    "variations": [
+      "ashes"
+    ],
+    "emoji": "灰🔥",
+    "id": "gl016"
+  },
+  "assembly": {
+    "word": "assembly",
+    "definition": "a group gathering in one place",
+    "variations": [
+      "assembly",
+      "assemblies",
+      "assemble",
+      "assembled"
+    ],
+    "emoji": "👥📍",
+    "id": "gl017"
+  },
+  "asthma": {
+    "word": "asthma",
+    "definition": "a disease that makes breathing difficult because the airways become narrow or swollen",
+    "variations": [
+      "asthma"
+    ],
+    "emoji": "🫁😮‍💨",
+    "id": "gl018"
+  },
+  "attach": {
+    "word": "attach",
+    "definition": "To join one block to another block.",
+    "variations": [
+      "attach",
+      "attaches",
+      "attached",
+      "attaching"
+    ],
+    "emoji": "🔗🧩",
+    "id": "gl019"
+  },
+  "bacteria": {
+    "word": "bacteria",
+    "definition": "very small living things; some can cause disease",
+    "variations": [
+      "bacterium"
+    ],
+    "emoji": "🦠🔬⚠️",
+    "id": "gl020"
+  },
+  "balanced diet": {
+    "word": "balanced diet",
+    "definition": "a meal or way of eating that includes all the main nutrients in the right amounts",
+    "variations": [
+      "balanced diet",
+      "balanced diets"
+    ],
+    "emoji": "🥗🍽️",
+    "id": "gl021"
+  },
+  "barrier": {
+    "word": "barrier",
+    "definition": "something that blocks or stops movement, such as a wall",
+    "variations": [
+      "barrier",
+      "barriers"
+    ],
+    "emoji": "🚧🧱",
+    "id": "gl022"
+  },
+  "battery": {
+    "word": "battery",
+    "definition": "a small device that stores energy and supplies electricity",
+    "variations": [
+      "battery",
+      "batteries"
+    ],
+    "emoji": "🔋",
+    "id": "gl023"
+  },
+  "beam": {
+    "word": "beam",
+    "definition": "a narrow line of light",
+    "variations": [
+      "beam",
+      "beams"
+    ],
+    "emoji": "🔦✨",
+    "id": "gl024"
+  },
+  "blisters": {
+    "word": "blisters",
+    "definition": "small raised skin bubbles filled with fluid",
+    "variations": [
+      "blister",
+      "blisters"
+    ],
+    "emoji": "🩹💧",
+    "id": "gl025"
+  },
+  "block": {
+    "word": "block",
+    "definition": "A command piece in Scratch that you join with other pieces to make a program.",
+    "variations": [
+      "block",
+      "blocks"
+    ],
+    "emoji": "🧩💻",
+    "id": "gl026"
+  },
+  "block menu": {
+    "word": "block menu",
+    "definition": "the part of Scratch that shows the blocks you can use for coding",
+    "variations": [
+      "block menu",
+      "block menus"
+    ],
+    "emoji": "🧱📋",
+    "id": "gl027"
+  },
+  "block programming": {
+    "word": "block programming",
+    "definition": "a way of coding by joining ready-made blocks of instructions together",
+    "variations": [
+      "block programming"
+    ],
+    "emoji": "🧩💻",
+    "id": "gl028"
+  },
+  "blood transfusion": {
+    "word": "blood transfusion",
+    "definition": "the process of giving blood from one person to another for medical treatment",
+    "variations": [
+      "blood transfusion",
+      "blood transfusions"
+    ],
+    "emoji": "🩸🏥",
+    "id": "gl029"
+  },
+  "BMP": {
+    "word": "BMP",
+    "definition": "a type of image file saved on a computer",
+    "variations": [
+      "BMP",
+      "BMP picture",
+      "BMP pictures"
+    ],
+    "emoji": "💻🖼️",
+    "id": "gl030"
+  },
+  "bodily fluids": {
+    "word": "bodily fluids",
+    "definition": "liquids from the body, such as blood",
+    "variations": [
+      "bodily fluid",
+      "bodily fluids"
+    ],
+    "emoji": "🩸💧",
+    "id": "gl031"
+  },
+  "body odour": {
+    "word": "body odour",
+    "definition": "an unpleasant smell from the body, often caused by sweat and poor cleanliness",
+    "variations": [],
+    "emoji": "😷💦👕",
+    "id": "gl032"
+  },
+  "body-building foods": {
+    "word": "body-building foods",
+    "definition": "foods that help the body grow and repair itself",
+    "variations": [
+      "body-building food",
+      "body-building foods"
+    ],
+    "emoji": "💪🥚",
+    "id": "gl033"
+  },
+  "boil": {
+    "word": "boil",
+    "definition": "To heat a liquid until it changes into gas.",
+    "variations": [
+      "boil",
+      "boils",
+      "boiled",
+      "boiling"
+    ],
+    "emoji": "♨️🫧",
+    "id": "gl034"
+  },
+  "boiling point": {
+    "word": "boiling point",
+    "definition": "The exact temperature at which a liquid boils and changes into gas.",
+    "variations": [
+      "boiling point",
+      "boiling points"
+    ],
+    "emoji": "♨️🌡️",
+    "id": "gl035"
+  },
+  "bounce": {
+    "word": "bounce",
+    "definition": "To hit an edge and move away from it.",
+    "variations": [
+      "bounce",
+      "bounces",
+      "bounced",
+      "bouncing"
+    ],
+    "emoji": "↩️⚽",
+    "id": "gl036"
+  },
+  "breastfeeding": {
+    "word": "breastfeeding",
+    "definition": "feeding a baby with milk from the mother’s breast",
+    "variations": [
+      "breastfeed",
+      "breastfeeds",
+      "breastfeeding",
+      "breastfed"
+    ],
+    "emoji": "🤱👶",
+    "id": "gl037"
+  },
+  "breed": {
+    "word": "breed",
+    "definition": "to produce young ones; for insects, to multiply in a place",
+    "variations": [
+      "breed",
+      "breeds",
+      "breeding",
+      "bred"
+    ],
+    "emoji": "🦟🌿",
+    "id": "gl038"
+  },
+  "breeding": {
+    "word": "breeding",
+    "definition": "the process by which animals or insects produce young",
+    "variations": [
+      "breeding",
+      "breed",
+      "breeds"
+    ],
+    "emoji": "🪰🦟",
+    "id": "gl039"
+  },
+  "brick wall": {
+    "word": "brick wall",
+    "definition": "a wall made from bricks placed in rows",
+    "variations": [
+      "brick wall",
+      "brick walls"
+    ],
+    "emoji": "🧱🏠",
+    "id": "gl040"
+  },
+  "bright": {
+    "word": "bright",
+    "definition": "giving out or reflecting a lot of light",
+    "variations": [
+      "bright",
+      "brighter",
+      "brightest",
+      "brightness"
+    ],
+    "emoji": "💡✨",
+    "id": "gl041"
+  },
+  "burn": {
+    "word": "burn",
+    "definition": "to be on fire or to be damaged by fire or heat",
+    "variations": [
+      "burn",
+      "burns",
+      "burning",
+      "burnt",
+      "burned"
+    ],
+    "emoji": "🔥🩹",
+    "id": "gl042"
+  },
+  "cancer": {
+    "word": "cancer",
+    "definition": "a disease in which body cells grow in an uncontrolled way",
+    "variations": [
+      "cancer",
+      "cancers"
+    ],
+    "emoji": "🩺⚠️",
+    "id": "gl043"
+  },
+  "candle lamp": {
+    "word": "candle lamp",
+    "definition": "a lamp that gives light by burning a wick with oil or wax",
+    "variations": [
+      "candle lamp",
+      "candle lamps"
+    ],
+    "emoji": "🕯️🏮",
+    "id": "gl044"
+  },
+  "carbohydrate": {
+    "word": "carbohydrate",
+    "definition": "a nutrient in foods like rice, bread and potatoes that gives the body energy",
+    "variations": [
+      "carbohydrate",
+      "carbohydrates"
+    ],
+    "emoji": "🍞🍚",
+    "id": "gl045"
+  },
+  "carbon dioxide": {
+    "word": "carbon dioxide",
+    "definition": "a gas produced when many substances burn and when people and animals breathe out",
+    "variations": [],
+    "emoji": "🌫️🫧",
+    "id": "gl046"
+  },
+  "casing": {
+    "word": "casing",
+    "definition": "a hard outer cover that protects something inside",
+    "variations": [
+      "casing",
+      "casings"
+    ],
+    "emoji": "🛡️🥚",
+    "id": "gl047"
+  },
+  "cavities": {
+    "word": "cavities",
+    "definition": "holes in teeth caused by decay",
+    "variations": [
+      "cavity"
+    ],
+    "emoji": "🦷🕳️😬",
+    "id": "gl048"
+  },
+  "cell": {
+    "word": "cell",
+    "definition": "the smallest part of a living thing",
+    "variations": [
+      "cell",
+      "cells"
+    ],
+    "emoji": "🔬🧫",
+    "id": "gl049"
+  },
+  "cells": {
+    "word": "cells",
+    "definition": "the tiny building blocks that make up all living things",
+    "variations": [
+      "cell",
+      "cells"
+    ],
+    "emoji": "🔬🧫",
+    "id": "gl050"
+  },
+  "Celsius": {
+    "word": "Celsius",
+    "definition": "a temperature scale in which water freezes at 0 degrees and boils at 100 degrees",
+    "variations": [
+      "degree Celsius",
+      "degrees Celsius",
+      "°C"
+    ],
+    "emoji": "🌡️❄️♨️",
+    "id": "gl051"
+  },
+  "character": {
+    "word": "character",
+    "definition": "a person, animal, or object in a game or story",
+    "variations": [
+      "character",
+      "characters"
+    ],
+    "emoji": "🧍🎮",
+    "id": "gl052"
+  },
+  "charcoal": {
+    "word": "charcoal",
+    "definition": "a black solid fuel made by burning wood with little oxygen",
+    "variations": [],
+    "emoji": "🪵⚫🔥",
+    "id": "gl053"
+  },
+  "check-ups": {
+    "word": "check-ups",
+    "definition": "medical examinations to see if a person is healthy",
+    "variations": [
+      "check-up",
+      "check-ups"
+    ],
+    "emoji": "🩺✅",
+    "id": "gl054"
+  },
+  "chemical": {
+    "word": "chemical",
+    "definition": "a substance used in or made by science, often for a special purpose",
+    "variations": [
+      "chemical",
+      "chemicals"
+    ],
+    "emoji": "🧪⚗️",
+    "id": "gl055"
+  },
+  "chemicals": {
+    "word": "chemicals",
+    "definition": "substances used or found in science, industry, food or medicines",
+    "variations": [
+      "chemical",
+      "chemicals"
+    ],
+    "emoji": "🧪⚠️",
+    "id": "gl056"
+  },
+  "chickenpox": {
+    "word": "chickenpox",
+    "definition": "an infectious disease that causes an itchy rash and blisters",
+    "variations": [
+      "chickenpox"
+    ],
+    "emoji": "😷🩹",
+    "id": "gl057"
+  },
+  "childbirth": {
+    "word": "childbirth",
+    "definition": "the process of giving birth to a baby",
+    "variations": [
+      "childbirth"
+    ],
+    "emoji": "👶🏥",
+    "id": "gl058"
+  },
+  "cholera": {
+    "word": "cholera",
+    "definition": "a serious disease caused by bacteria, often spread through dirty food or water",
+    "variations": [
+      "cholera"
+    ],
+    "emoji": "💧🤒",
+    "id": "gl059"
+  },
+  "chronic": {
+    "word": "chronic",
+    "definition": "lasting for a long time or happening again and again",
+    "variations": [
+      "chronic"
+    ],
+    "emoji": "🕒⚕️",
+    "id": "gl060"
+  },
+  "chronic diseases": {
+    "word": "chronic diseases",
+    "definition": "illnesses that last a long time or keep coming back",
+    "variations": [
+      "chronic disease"
+    ],
+    "emoji": "🩺⏳🏥",
+    "id": "gl061"
+  },
+  "circle": {
+    "word": "circle",
+    "definition": "a round shape with no corners",
+    "variations": [
+      "circle",
+      "circles"
+    ],
+    "emoji": "⭕🔵",
+    "id": "gl062"
+  },
+  "cleanliness": {
+    "word": "cleanliness",
+    "definition": "the state of being clean and free from dirt",
+    "variations": [
+      "cleanliness"
+    ],
+    "emoji": "🧼✨",
+    "id": "gl063"
+  },
+  "click": {
+    "word": "click",
+    "definition": "To press a mouse button or tap on something to choose or start it.",
+    "variations": [
+      "click",
+      "clicks",
+      "clicked",
+      "clicking"
+    ],
+    "emoji": "🖱️👆",
+    "id": "gl064"
+  },
+  "coding": {
+    "word": "coding",
+    "definition": "writing instructions that tell a computer what to do",
+    "variations": [
+      "coding",
+      "code",
+      "codes",
+      "coded"
+    ],
+    "emoji": "💻⌨️",
+    "id": "gl065"
+  },
+  "colour": {
+    "word": "colour",
+    "definition": "to fill a shape or picture with a chosen colour",
+    "variations": [
+      "colour",
+      "colours",
+      "coloured",
+      "colouring"
+    ],
+    "emoji": "🎨🌈",
+    "id": "gl066"
+  },
+  "combine": {
+    "word": "combine",
+    "definition": "to join two or more things together to make one whole thing",
+    "variations": [
+      "combine",
+      "combines",
+      "combined",
+      "combining"
+    ],
+    "emoji": "🧩➕",
+    "id": "gl067"
+  },
+  "combustion": {
+    "word": "combustion",
+    "definition": "the process in which a substance burns by reacting quickly with oxygen, releasing heat and often light",
+    "variations": [
+      "combustions"
+    ],
+    "emoji": "🔥🌬️💡",
+    "id": "gl068"
+  },
+  "command": {
+    "word": "command",
+    "definition": "An instruction that tells the computer or program what to do.",
+    "variations": [
+      "command",
+      "commands"
+    ],
+    "emoji": "📢💻",
+    "id": "gl069"
+  },
+  "communicable": {
+    "word": "communicable",
+    "definition": "able to spread from one person, animal or place to another",
+    "variations": [
+      "communicable"
+    ],
+    "emoji": "🦠↔️",
+    "id": "gl070"
+  },
+  "communication": {
+    "word": "communication",
+    "definition": "the sharing of information, ideas or messages between people or devices",
+    "variations": [
+      "communication",
+      "communications",
+      "communicate",
+      "communicates",
+      "communicated",
+      "communicating"
+    ],
+    "emoji": "📞💬",
+    "id": "gl071"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability to do something well",
+    "variations": [
+      "competency",
+      "competencies",
+      "competent"
+    ],
+    "emoji": "🎯📘",
+    "id": "gl072"
+  },
+  "complete combustion": {
+    "word": "complete combustion",
+    "definition": "burning that happens when there is enough oxygen, so the fuel burns fully",
+    "variations": [],
+    "emoji": "🔥✅🌬️",
+    "id": "gl073"
+  },
+  "complete metamorphosis": {
+    "word": "complete metamorphosis",
+    "definition": "a type of insect growth with four stages: egg, larva, pupa and adult",
+    "variations": [
+      "complete metamorphosis"
+    ],
+    "emoji": "🥚🐛🪰",
+    "id": "gl074"
+  },
+  "computer": {
+    "word": "computer",
+    "definition": "An electronic machine that follows instructions and works with information.",
+    "variations": [
+      "computer",
+      "computers"
+    ],
+    "emoji": "💻🖥️",
+    "id": "gl075"
+  },
+  "condense": {
+    "word": "condense",
+    "definition": "To change from a gas into a liquid when cooled.",
+    "variations": [
+      "condense",
+      "condenses",
+      "condensed",
+      "condensing",
+      "condensation"
+    ],
+    "emoji": "💨💧",
+    "id": "gl076"
+  },
+  "condition": {
+    "word": "condition",
+    "definition": "a test in a program that can be true or false",
+    "variations": [
+      "condition",
+      "conditions"
+    ],
+    "emoji": "❓✅❌",
+    "id": "gl077"
+  },
+  "conduction": {
+    "word": "conduction",
+    "definition": "the transfer of heat through a solid when parts touch each other",
+    "variations": [
+      "conduction"
+    ],
+    "emoji": "🔥🪙",
+    "id": "gl078"
+  },
+  "conductor": {
+    "word": "conductor",
+    "definition": "a material that allows heat to pass through it easily",
+    "variations": [
+      "conductor",
+      "conductors"
+    ],
+    "emoji": "🪙🔥",
+    "id": "gl079"
+  },
+  "container": {
+    "word": "container",
+    "definition": "an object used to hold or store something",
+    "variations": [
+      "container",
+      "containers"
+    ],
+    "emoji": "🥣🫙",
+    "id": "gl080"
+  },
+  "contaminated": {
+    "word": "contaminated",
+    "definition": "made dirty or unsafe by harmful substances or germs",
+    "variations": [
+      "contaminated",
+      "contaminate",
+      "contaminates",
+      "contamination"
+    ],
+    "emoji": "💧⚠️🦠",
+    "id": "gl081"
+  },
+  "Control": {
+    "word": "Control",
+    "definition": "A group of blocks in Scratch that manage what happens in a program, such as repeating or checking conditions.",
+    "variations": [
+      "control",
+      "controls"
+    ],
+    "emoji": "🎛️🧠",
+    "id": "gl082"
+  },
+  "convection": {
+    "word": "convection",
+    "definition": "the transfer of heat in liquids or gases as they move",
+    "variations": [
+      "convection"
+    ],
+    "emoji": "🌬️♨️",
+    "id": "gl083"
+  },
+  "convert": {
+    "word": "convert",
+    "definition": "to change something from one form into another",
+    "variations": [
+      "convert",
+      "converts",
+      "converted",
+      "converting",
+      "conversion"
+    ],
+    "emoji": "🔄⚡",
+    "id": "gl084"
+  },
+  "copy": {
+    "word": "copy",
+    "definition": "to make another version of something on the computer",
+    "variations": [
+      "copy",
+      "copies",
+      "copied",
+      "copying"
+    ],
+    "emoji": "📄📋",
+    "id": "gl085"
+  },
+  "coughs": {
+    "word": "coughs",
+    "definition": "forces air out of the throat suddenly, often because of illness",
+    "variations": [
+      "cough",
+      "coughs",
+      "coughed",
+      "coughing"
+    ],
+    "emoji": "😷💨",
+    "id": "gl086"
+  },
+  "creativity": {
+    "word": "creativity",
+    "definition": "the ability to make new and original ideas",
+    "variations": [
+      "creativity",
+      "creative"
+    ],
+    "emoji": "💡🎨",
+    "id": "gl087"
+  },
+  "cursor": {
+    "word": "cursor",
+    "definition": "the moving pointer on a computer screen that shows where you are working",
+    "variations": [
+      "cursor",
+      "cursors"
+    ],
+    "emoji": "🖱️💻",
+    "id": "gl088"
+  },
+  "dandruff": {
+    "word": "dandruff",
+    "definition": "small white pieces of dry skin that fall from the scalp",
+    "variations": [],
+    "emoji": "💇❄️🧴",
+    "id": "gl089"
+  },
+  "decayed": {
+    "word": "decayed",
+    "definition": "rotted or broken down after being dead or old",
+    "variations": [
+      "decayed",
+      "decay",
+      "decaying"
+    ],
+    "emoji": "🪰🗑️",
+    "id": "gl090"
+  },
+  "decision structure": {
+    "word": "decision structure",
+    "definition": "part of a program that makes a choice based on whether a condition is true or false",
+    "variations": [
+      "decision structure",
+      "decision structures"
+    ],
+    "emoji": "🤔✅❌",
+    "id": "gl091"
+  },
+  "degree": {
+    "word": "degree",
+    "definition": "a unit used to measure temperature and show how hot or cold something is",
+    "variations": [
+      "degrees"
+    ],
+    "emoji": "🌡️📏",
+    "id": "gl092"
+  },
+  "degrees": {
+    "word": "degrees",
+    "definition": "Units used to measure direction or angle, such as 0, 90, 180, and 270.",
+    "variations": [
+      "degree",
+      "degrees"
+    ],
+    "emoji": "📐🔄",
+    "id": "gl093"
+  },
+  "delete": {
+    "word": "delete",
+    "definition": "To remove something so it is no longer there.",
+    "variations": [
+      "delete",
+      "deletes",
+      "deleted",
+      "deleting"
+    ],
+    "emoji": "🗑️❌",
+    "id": "gl094"
+  },
+  "depression": {
+    "word": "depression",
+    "definition": "a serious condition in which a person feels very sad for a long time and loses interest in things",
+    "variations": [
+      "depressed"
+    ],
+    "emoji": "😞🌧️🧠",
+    "id": "gl095"
+  },
+  "development": {
+    "word": "development",
+    "definition": "the process of growing or improving",
+    "variations": [
+      "develop",
+      "develops",
+      "developing",
+      "developed"
+    ],
+    "emoji": "🌱🧠📈",
+    "id": "gl096"
+  },
+  "diabetes": {
+    "word": "diabetes",
+    "definition": "a disease in which the body cannot properly control the amount of sugar in the blood",
+    "variations": [
+      "diabetes"
+    ],
+    "emoji": "🩺🩸",
+    "id": "gl097"
+  },
+  "diagnosis": {
+    "word": "diagnosis",
+    "definition": "the act of finding out what illness or problem a person has",
+    "variations": [
+      "diagnosis",
+      "diagnoses"
+    ],
+    "emoji": "🩺🏥",
+    "id": "gl098"
+  },
+  "diagonal": {
+    "word": "diagonal",
+    "definition": "a sloping line that goes across from one corner to another",
+    "variations": [
+      "diagonal",
+      "diagonally",
+      "diagonals"
+    ],
+    "emoji": "↘️📐",
+    "id": "gl099"
+  },
+  "diarrhoea": {
+    "word": "diarrhoea",
+    "definition": "a condition in which watery stool is passed often",
+    "variations": [
+      "diarrhoea"
+    ],
+    "emoji": "🚽🤒",
+    "id": "gl100"
+  },
+  "digestion": {
+    "word": "digestion",
+    "definition": "the process of breaking down food in the body so it can be used for energy and growth",
+    "variations": [
+      "digest",
+      "digests",
+      "digestive"
+    ],
+    "emoji": "🍽️🫃⚙️",
+    "id": "gl101"
+  },
+  "digestive system": {
+    "word": "digestive system",
+    "definition": "the body system that breaks down food so the body can use it",
+    "variations": [
+      "digestive system",
+      "digestive systems"
+    ],
+    "emoji": "🍽️🫃",
+    "id": "gl102"
+  },
+  "direction": {
+    "word": "direction",
+    "definition": "The way something faces or moves, such as up, down, left, or right.",
+    "variations": [
+      "direction",
+      "directions"
+    ],
+    "emoji": "⬆️⬇️↔️",
+    "id": "gl103"
+  },
+  "disease": {
+    "word": "disease",
+    "definition": "an illness that affects the body or mind",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl104"
+  },
+  "diseases": {
+    "word": "diseases",
+    "definition": "illnesses that make the body unhealthy or not work properly",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🤒🏥",
+    "id": "gl105"
+  },
+  "disrupt": {
+    "word": "disrupt",
+    "definition": "to stop something from working in the usual way",
+    "variations": [
+      "disrupt",
+      "disrupts",
+      "disrupted",
+      "disrupting",
+      "disruption"
+    ],
+    "emoji": "🛑⚡",
+    "id": "gl106"
+  },
+  "drag": {
+    "word": "drag",
+    "definition": "To click on something and move it to another place on the screen.",
+    "variations": [
+      "drag",
+      "drags",
+      "dragged",
+      "dragging"
+    ],
+    "emoji": "🖱️↔️",
+    "id": "gl107"
+  },
+  "drag and drop": {
+    "word": "drag and drop",
+    "definition": "To click an item, move it to another place, and release it there.",
+    "variations": [
+      "drag and drop",
+      "dragged and dropped",
+      "dragging and dropping"
+    ],
+    "emoji": "🖱️⬇️",
+    "id": "gl108"
+  },
+  "drawing area": {
+    "word": "drawing area",
+    "definition": "the part of the screen where you make pictures or shapes",
+    "variations": [
+      "drawing area",
+      "drawing areas"
+    ],
+    "emoji": "🎨🖼️",
+    "id": "gl109"
+  },
+  "droplet": {
+    "word": "droplet",
+    "definition": "A very small drop of liquid.",
+    "variations": [
+      "droplet",
+      "droplets"
+    ],
+    "emoji": "💧🔹",
+    "id": "gl110"
+  },
+  "Duplicate": {
+    "word": "Duplicate",
+    "definition": "To make an exact copy of something.",
+    "variations": [
+      "duplicate",
+      "duplicates",
+      "duplicated",
+      "duplicating"
+    ],
+    "emoji": "📄📄🪞",
+    "id": "gl111"
+  },
+  "echo": {
+    "word": "echo",
+    "definition": "a sound that is heard again after it bounces off a surface",
+    "variations": [
+      "echo",
+      "echoes"
+    ],
+    "emoji": "🗣️↩️🏛️",
+    "id": "gl112"
+  },
+  "edge": {
+    "word": "edge",
+    "definition": "The outer border of the stage or screen.",
+    "variations": [
+      "edge",
+      "edges"
+    ],
+    "emoji": "📺⬛",
+    "id": "gl113"
+  },
+  "elderly": {
+    "word": "elderly",
+    "definition": "old people, especially those in the later part of life",
+    "variations": [
+      "the elderly"
+    ],
+    "emoji": "👵👴🪑",
+    "id": "gl114"
+  },
+  "electrical energy": {
+    "word": "electrical energy",
+    "definition": "energy that comes from electricity and can be changed into other forms of energy",
+    "variations": [
+      "electrical energy"
+    ],
+    "emoji": "⚡🔌",
+    "id": "gl115"
+  },
+  "electromagnetic radiation": {
+    "word": "electromagnetic radiation",
+    "definition": "a form of energy that travels in waves, such as light",
+    "variations": [
+      "electromagnetic radiation"
+    ],
+    "emoji": "💡📡",
+    "id": "gl116"
+  },
+  "emergency": {
+    "word": "emergency",
+    "definition": "a serious and sudden situation that needs quick action",
+    "variations": [
+      "emergency",
+      "emergencies"
+    ],
+    "emoji": "🚨🆘",
+    "id": "gl117"
+  },
+  "emergency signs": {
+    "word": "emergency signs",
+    "definition": "signs that show help, exits or safe actions in dangerous situations",
+    "variations": [
+      "emergency sign"
+    ],
+    "emoji": "🚨🆘🚪",
+    "id": "gl118"
+  },
+  "energy": {
+    "word": "energy",
+    "definition": "the ability to do work or make things happen",
+    "variations": [
+      "energy",
+      "energies"
+    ],
+    "emoji": "⚡🔋",
+    "id": "gl119"
+  },
+  "energy-giving foods": {
+    "word": "energy-giving foods",
+    "definition": "foods that give the body power to work, move and play",
+    "variations": [
+      "energy-giving food",
+      "energy-giving foods"
+    ],
+    "emoji": "⚡🍚",
+    "id": "gl120"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "the surroundings or place where people, animals and plants live or do things",
+    "variations": [
+      "environment",
+      "environments",
+      "environmental"
+    ],
+    "emoji": "🌍🌿",
+    "id": "gl121"
+  },
+  "environmental factors": {
+    "word": "environmental factors",
+    "definition": "things in the surroundings that can affect health or life, such as dust, smoke or temperature",
+    "variations": [
+      "environmental factor",
+      "environmental factors"
+    ],
+    "emoji": "🌍🌫️",
+    "id": "gl122"
+  },
+  "environmental hygiene": {
+    "word": "environmental hygiene",
+    "definition": "keeping places around us clean to prevent disease and protect health",
+    "variations": [],
+    "emoji": "🧹🌍✨",
+    "id": "gl123"
+  },
+  "event": {
+    "word": "event",
+    "definition": "An action that starts something in a program, such as clicking the green flag or pressing a key.",
+    "variations": [
+      "event",
+      "events"
+    ],
+    "emoji": "🚩⌨️",
+    "id": "gl124"
+  },
+  "Events": {
+    "word": "Events",
+    "definition": "Blocks or actions that start something happening in a program, such as pressing a key.",
+    "variations": [
+      "Event",
+      "Events"
+    ],
+    "emoji": "⚡🎬",
+    "id": "gl125"
+  },
+  "excretory system": {
+    "word": "excretory system",
+    "definition": "the body system that removes waste from the body",
+    "variations": [
+      "excretory systems"
+    ],
+    "emoji": "🚰🧍🗑️",
+    "id": "gl126"
+  },
+  "execute": {
+    "word": "execute",
+    "definition": "To carry out or run an instruction or program.",
+    "variations": [
+      "execute",
+      "executes",
+      "executed",
+      "executing",
+      "execution"
+    ],
+    "emoji": "▶️⚙️",
+    "id": "gl127"
+  },
+  "executed": {
+    "word": "executed",
+    "definition": "run or carried out by the computer",
+    "variations": [
+      "execute",
+      "executes",
+      "executed",
+      "executing"
+    ],
+    "emoji": "▶️⚙️",
+    "id": "gl128"
+  },
+  "expiration": {
+    "word": "expiration",
+    "definition": "the point when a product is no longer safe or suitable to use",
+    "variations": [
+      "expiration",
+      "expire",
+      "expires",
+      "expired",
+      "expiry"
+    ],
+    "emoji": "📅⌛",
+    "id": "gl129"
+  },
+  "extinguish": {
+    "word": "extinguish",
+    "definition": "to make a fire stop burning",
+    "variations": [
+      "extinguishes",
+      "extinguished",
+      "extinguishing"
+    ],
+    "emoji": "🧯🔥✋",
+    "id": "gl130"
+  },
+  "faeces": {
+    "word": "faeces",
+    "definition": "solid waste passed out of the body",
+    "variations": [
+      "faeces"
+    ],
+    "emoji": "💩",
+    "id": "gl131"
+  },
+  "Fahrenheit": {
+    "word": "Fahrenheit",
+    "definition": "a temperature scale in which water freezes at 32 degrees and boils at 212 degrees",
+    "variations": [
+      "degree Fahrenheit",
+      "degrees Fahrenheit",
+      "°F"
+    ],
+    "emoji": "🌡️🔥❄️",
+    "id": "gl132"
+  },
+  "false": {
+    "word": "false",
+    "definition": "showing that a condition is not correct",
+    "variations": [
+      "false"
+    ],
+    "emoji": "❌",
+    "id": "gl133"
+  },
+  "fat": {
+    "word": "fat",
+    "definition": "a nutrient that gives energy and helps keep the body warm",
+    "variations": [
+      "fat",
+      "fats"
+    ],
+    "emoji": "🥜🥥",
+    "id": "gl134"
+  },
+  "fever": {
+    "word": "fever",
+    "definition": "a body temperature that is higher than normal",
+    "variations": [
+      "fever",
+      "fevers"
+    ],
+    "emoji": "🌡️🤒",
+    "id": "gl135"
+  },
+  "file": {
+    "word": "file",
+    "definition": "a piece of work or information stored on a computer",
+    "variations": [
+      "file",
+      "files"
+    ],
+    "emoji": "📄💻",
+    "id": "gl136"
+  },
+  "File menu": {
+    "word": "File menu",
+    "definition": "A menu where you can find commands such as save and open.",
+    "variations": [
+      "File menu",
+      "file menu"
+    ],
+    "emoji": "📁📋",
+    "id": "gl137"
+  },
+  "fill": {
+    "word": "fill",
+    "definition": "to put colour inside a shape or space",
+    "variations": [
+      "fill",
+      "fills",
+      "filled",
+      "filling"
+    ],
+    "emoji": "🪣🎨",
+    "id": "gl138"
+  },
+  "fire triangle": {
+    "word": "fire triangle",
+    "definition": "a model showing that heat, fuel, and oxygen are all needed for fire to happen",
+    "variations": [],
+    "emoji": "🔥🔺🌬️",
+    "id": "gl139"
+  },
+  "flame": {
+    "word": "flame",
+    "definition": "the hot, glowing part of a fire that gives off light and heat",
+    "variations": [
+      "flames"
+    ],
+    "emoji": "🔥💡",
+    "id": "gl140"
+  },
+  "flammable": {
+    "word": "flammable",
+    "definition": "able to catch fire easily",
+    "variations": [],
+    "emoji": "🔥⚠️",
+    "id": "gl141"
+  },
+  "float": {
+    "word": "float",
+    "definition": "To stay on the surface of a liquid without sinking.",
+    "variations": [
+      "float",
+      "floats",
+      "floating"
+    ],
+    "emoji": "🧊💧",
+    "id": "gl142"
+  },
+  "flow": {
+    "word": "flow",
+    "definition": "To move smoothly like a liquid.",
+    "variations": [
+      "flow",
+      "flows",
+      "flowing"
+    ],
+    "emoji": "💧➡️",
+    "id": "gl143"
+  },
+  "forever": {
+    "word": "forever",
+    "definition": "A loop in Scratch that keeps repeating without stopping until the program ends.",
+    "variations": [
+      "forever"
+    ],
+    "emoji": "🔁♾️",
+    "id": "gl144"
+  },
+  "forever block": {
+    "word": "forever block",
+    "definition": "a block that tells the computer to keep doing something without stopping",
+    "variations": [
+      "forever block",
+      "forever blocks"
+    ],
+    "emoji": "♾️🔁",
+    "id": "gl145"
+  },
+  "freeze": {
+    "word": "freeze",
+    "definition": "To change from a liquid into a solid because of cold temperature.",
+    "variations": [
+      "freeze",
+      "freezes",
+      "freezing",
+      "frozen"
+    ],
+    "emoji": "❄️🧊",
+    "id": "gl146"
+  },
+  "freezing point": {
+    "word": "freezing point",
+    "definition": "The exact temperature at which a liquid changes into a solid.",
+    "variations": [
+      "freezing point",
+      "freezing points"
+    ],
+    "emoji": "❄️🌡️",
+    "id": "gl147"
+  },
+  "friction": {
+    "word": "friction",
+    "definition": "a force made when two surfaces rub against each other",
+    "variations": [
+      "friction"
+    ],
+    "emoji": "✋🔥",
+    "id": "gl148"
+  },
+  "fruit": {
+    "word": "fruit",
+    "definition": "the part of a plant that often contains seeds and is eaten as food",
+    "variations": [
+      "fruit",
+      "fruits"
+    ],
+    "emoji": "🍎🍊",
+    "id": "gl149"
+  },
+  "fuel": {
+    "word": "fuel",
+    "definition": "a material that is burned to produce heat or energy",
+    "variations": [
+      "fuels"
+    ],
+    "emoji": "🪵⛽🔥",
+    "id": "gl150"
+  },
+  "functioning": {
+    "word": "functioning",
+    "definition": "working or operating in the right way",
+    "variations": [
+      "functioning",
+      "function",
+      "functions",
+      "functional"
+    ],
+    "emoji": "⚙️✅",
+    "id": "gl151"
+  },
+  "game rules": {
+    "word": "game rules",
+    "definition": "instructions that explain how a game is played",
+    "variations": [
+      "game rule",
+      "game rules"
+    ],
+    "emoji": "🎮📜",
+    "id": "gl152"
+  },
+  "gas": {
+    "word": "gas",
+    "definition": "A state of matter that has no fixed shape or fixed volume and spreads to fill space.",
+    "variations": [
+      "gas",
+      "gases",
+      "gaseous"
+    ],
+    "emoji": "💨🌫️",
+    "id": "gl153"
+  },
+  "germ": {
+    "word": "germ",
+    "definition": "a very small living thing that can cause disease",
+    "variations": [
+      "germ",
+      "germs"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl154"
+  },
+  "germs": {
+    "word": "germs",
+    "definition": "very tiny living things that can cause disease",
+    "variations": [
+      "germ"
+    ],
+    "emoji": "🦠🧼⚠️",
+    "id": "gl155"
+  },
+  "greater than": {
+    "word": "greater than",
+    "definition": "used to compare two numbers to see if one number is bigger than another",
+    "variations": [
+      "greater than"
+    ],
+    "emoji": "🔢⬆️",
+    "id": "gl156"
+  },
+  "Green flag": {
+    "word": "Green flag",
+    "definition": "The button in Scratch used to start running a program.",
+    "variations": [
+      "Green flag"
+    ],
+    "emoji": "🟢🚩▶️",
+    "id": "gl157"
+  },
+  "habitat": {
+    "word": "habitat",
+    "definition": "the natural place where a plant or animal lives",
+    "variations": [
+      "habitats"
+    ],
+    "emoji": "🏞️🐾",
+    "id": "gl158"
+  },
+  "hatch": {
+    "word": "hatch",
+    "definition": "to come out of an egg",
+    "variations": [
+      "hatch",
+      "hatches",
+      "hatched",
+      "hatching"
+    ],
+    "emoji": "🥚🐣",
+    "id": "gl159"
+  },
+  "hazard": {
+    "word": "hazard",
+    "definition": "something that can cause danger or harm",
+    "variations": [
+      "hazard",
+      "hazards"
+    ],
+    "emoji": "⚠️🔥",
+    "id": "gl160"
+  },
+  "health principles": {
+    "word": "health principles",
+    "definition": "basic rules and habits that help people stay healthy and safe",
+    "variations": [
+      "health principle",
+      "health principles"
+    ],
+    "emoji": "❤️🩺",
+    "id": "gl161"
+  },
+  "heat": {
+    "word": "heat",
+    "definition": "a form of energy that makes things warm or hot",
+    "variations": [
+      "heat",
+      "heats",
+      "heating"
+    ],
+    "emoji": "🔥🌡️",
+    "id": "gl162"
+  },
+  "heat energy": {
+    "word": "heat energy",
+    "definition": "energy that makes things warm or hot",
+    "variations": [
+      "heat energy"
+    ],
+    "emoji": "🔥🌡️",
+    "id": "gl163"
+  },
+  "hereditary": {
+    "word": "hereditary",
+    "definition": "passed from parents to children through family traits",
+    "variations": [
+      "hereditary",
+      "heredity"
+    ],
+    "emoji": "👨‍👩‍👧🧬",
+    "id": "gl164"
+  },
+  "HIV": {
+    "word": "HIV",
+    "definition": "a virus that attacks the body’s defence system and can lead to AIDS",
+    "variations": [
+      "HIV"
+    ],
+    "emoji": "🦠🩸",
+    "id": "gl165"
+  },
+  "hormone": {
+    "word": "hormone",
+    "definition": "a chemical made by the body that helps control how the body works",
+    "variations": [
+      "hormone",
+      "hormones"
+    ],
+    "emoji": "🧪🩺",
+    "id": "gl166"
+  },
+  "houseflies": {
+    "word": "houseflies",
+    "definition": "common flies that live near people and can carry germs",
+    "variations": [
+      "housefly",
+      "houseflies"
+    ],
+    "emoji": "🪰🦠",
+    "id": "gl167"
+  },
+  "hygiene": {
+    "word": "hygiene",
+    "definition": "the practice of keeping the body and surroundings clean to stay healthy",
+    "variations": [
+      "personal hygiene",
+      "environmental hygiene"
+    ],
+    "emoji": "🧼🚿✨",
+    "id": "gl168"
+  },
+  "icon": {
+    "word": "icon",
+    "definition": "a small picture or symbol on a screen that you click to do something.",
+    "variations": [
+      "icon",
+      "icons"
+    ],
+    "emoji": "🖱️🔘",
+    "id": "gl169"
+  },
+  "if then block": {
+    "word": "if then block",
+    "definition": "a block that runs an action only when a condition is true",
+    "variations": [
+      "if then block",
+      "if then blocks"
+    ],
+    "emoji": "🤔✅",
+    "id": "gl170"
+  },
+  "ignite": {
+    "word": "ignite",
+    "definition": "to make something start burning",
+    "variations": [
+      "ignites",
+      "ignited",
+      "igniting",
+      "ignition"
+    ],
+    "emoji": "🔥⚡",
+    "id": "gl171"
+  },
+  "image": {
+    "word": "image",
+    "definition": "the picture of an object seen in a mirror or through a lens",
+    "variations": [
+      "image",
+      "images"
+    ],
+    "emoji": "🖼️👀",
+    "id": "gl172"
+  },
+  "immune system": {
+    "word": "immune system",
+    "definition": "the body’s defence system that fights diseases and infections",
+    "variations": [
+      "immune system",
+      "immune systems"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl173"
+  },
+  "immunity": {
+    "word": "immunity",
+    "definition": "the body’s ability to protect itself from disease",
+    "variations": [
+      "immune"
+    ],
+    "emoji": "🛡️💪🦠",
+    "id": "gl174"
+  },
+  "improve": {
+    "word": "improve",
+    "definition": "to make something better",
+    "variations": [
+      "improve",
+      "improves",
+      "improved",
+      "improving",
+      "improvement"
+    ],
+    "emoji": "⬆️✨",
+    "id": "gl175"
+  },
+  "incomplete combustion": {
+    "word": "incomplete combustion",
+    "definition": "burning that happens when there is not enough oxygen, so the fuel does not burn fully",
+    "variations": [],
+    "emoji": "🔥⚠️🌫️",
+    "id": "gl176"
+  },
+  "incomplete metamorphosis": {
+    "word": "incomplete metamorphosis",
+    "definition": "a type of insect growth with three stages: egg, nymph and adult",
+    "variations": [
+      "incomplete metamorphosis"
+    ],
+    "emoji": "🥚🪳➡️",
+    "id": "gl177"
+  },
+  "infants": {
+    "word": "infants",
+    "definition": "very young babies",
+    "variations": [
+      "infant",
+      "infants"
+    ],
+    "emoji": "👶",
+    "id": "gl178"
+  },
+  "infected": {
+    "word": "infected",
+    "definition": "having germs or disease in the body",
+    "variations": [
+      "infected",
+      "infect",
+      "infects",
+      "infection",
+      "infections"
+    ],
+    "emoji": "🤒🦠",
+    "id": "gl179"
+  },
+  "infections": {
+    "word": "infections",
+    "definition": "illnesses caused when harmful germs enter the body",
+    "variations": [
+      "infection"
+    ],
+    "emoji": "🦠🤒⚠️",
+    "id": "gl180"
+  },
+  "infectious": {
+    "word": "infectious",
+    "definition": "able to spread easily from one person to another",
+    "variations": [
+      "infectious"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl181"
+  },
+  "ingredient": {
+    "word": "ingredient",
+    "definition": "one of the things used to make a product or food",
+    "variations": [
+      "ingredient",
+      "ingredients"
+    ],
+    "emoji": "🥣📦",
+    "id": "gl182"
+  },
+  "inherited": {
+    "word": "inherited",
+    "definition": "passed from parents or family members to children",
+    "variations": [
+      "inherit",
+      "inherits",
+      "inherited",
+      "inheriting"
+    ],
+    "emoji": "👨‍👩‍👧🧬",
+    "id": "gl183"
+  },
+  "injury": {
+    "word": "injury",
+    "definition": "harm or damage done to the body",
+    "variations": [
+      "injury",
+      "injuries"
+    ],
+    "emoji": "🩹🤕",
+    "id": "gl184"
+  },
+  "insecticide": {
+    "word": "insecticide",
+    "definition": "a chemical used to kill insects",
+    "variations": [
+      "insecticide",
+      "insecticides"
+    ],
+    "emoji": "🪳🧴",
+    "id": "gl185"
+  },
+  "instruction": {
+    "word": "instruction",
+    "definition": "A direction or step that tells what to do in a program.",
+    "variations": [
+      "instruction",
+      "instructions"
+    ],
+    "emoji": "📝➡️",
+    "id": "gl186"
+  },
+  "insulin": {
+    "word": "insulin",
+    "definition": "a hormone that helps control the amount of sugar in the blood",
+    "variations": [
+      "insulin"
+    ],
+    "emoji": "🩸⚖️",
+    "id": "gl187"
+  },
+  "interface": {
+    "word": "interface",
+    "definition": "the parts of a program that you see and use on the screen",
+    "variations": [
+      "interface",
+      "interfaces"
+    ],
+    "emoji": "🖥️👀",
+    "id": "gl188"
+  },
+  "international": {
+    "word": "international",
+    "definition": "involving many countries of the world",
+    "variations": [],
+    "emoji": "🌍✈️🤝",
+    "id": "gl189"
+  },
+  "JPEG": {
+    "word": "JPEG",
+    "definition": "a type of picture file used for saving photos and images",
+    "variations": [
+      "JPEG",
+      "JPEG picture",
+      "JPEG pictures"
+    ],
+    "emoji": "📷🖼️",
+    "id": "gl190"
+  },
+  "key pressed": {
+    "word": "key pressed",
+    "definition": "an action that happens when a keyboard key is pushed",
+    "variations": [
+      "key pressed",
+      "keys pressed"
+    ],
+    "emoji": "⌨️👆",
+    "id": "gl191"
+  },
+  "keyboard": {
+    "word": "keyboard",
+    "definition": "The part of a computer with keys that you press to type or control actions.",
+    "variations": [
+      "keyboard",
+      "keyboards"
+    ],
+    "emoji": "⌨️💻",
+    "id": "gl192"
+  },
+  "kidneys": {
+    "word": "kidneys",
+    "definition": "organs that clean the blood and make urine",
+    "variations": [
+      "kidney",
+      "kidneys"
+    ],
+    "emoji": "🩺💧",
+    "id": "gl193"
+  },
+  "larva": {
+    "word": "larva",
+    "definition": "the young form of some insects that looks very different from the adult",
+    "variations": [
+      "larva",
+      "larvae"
+    ],
+    "emoji": "🐛🪰",
+    "id": "gl194"
+  },
+  "larvae": {
+    "word": "larvae",
+    "definition": "the young forms of insects before they become adults",
+    "variations": [
+      "larva",
+      "larvae"
+    ],
+    "emoji": "🐛🦟",
+    "id": "gl195"
+  },
+  "larvicide": {
+    "word": "larvicide",
+    "definition": "a substance used to kill the young forms of insects such as mosquito larvae",
+    "variations": [
+      "larvicide",
+      "larvicides"
+    ],
+    "emoji": "🧪🦟",
+    "id": "gl196"
+  },
+  "lens": {
+    "word": "lens",
+    "definition": "a clear curved piece of glass or plastic that bends light to make things look clearer or larger",
+    "variations": [
+      "lens",
+      "lenses"
+    ],
+    "emoji": "🔍👓",
+    "id": "gl197"
+  },
+  "lice": {
+    "word": "lice",
+    "definition": "very small insects that live in hair and make the scalp itchy",
+    "variations": [
+      "louse"
+    ],
+    "emoji": "🐜💇😣",
+    "id": "gl198"
+  },
+  "lifestyle": {
+    "word": "lifestyle",
+    "definition": "the way a person lives, including habits such as eating and exercise",
+    "variations": [
+      "lifestyle",
+      "lifestyles"
+    ],
+    "emoji": "🏃🥗",
+    "id": "gl199"
+  },
+  "light": {
+    "word": "light",
+    "definition": "energy that allows us to see things",
+    "variations": [
+      "light",
+      "lights",
+      "lighting"
+    ],
+    "emoji": "💡🌞",
+    "id": "gl200"
+  },
+  "light bulb": {
+    "word": "light bulb",
+    "definition": "a device that gives off light when electricity passes through it",
+    "variations": [
+      "light bulb",
+      "light bulbs"
+    ],
+    "emoji": "💡",
+    "id": "gl201"
+  },
+  "light energy": {
+    "word": "light energy",
+    "definition": "energy from light that helps us see and can be used in many ways",
+    "variations": [
+      "light energy"
+    ],
+    "emoji": "☀️💡",
+    "id": "gl202"
+  },
+  "light ray": {
+    "word": "light ray",
+    "definition": "a line that shows the path that light travels",
+    "variations": [
+      "light ray",
+      "light rays"
+    ],
+    "emoji": "✨➡️",
+    "id": "gl203"
+  },
+  "liquid": {
+    "word": "liquid",
+    "definition": "A state of matter that has a fixed volume but changes shape to fit its container.",
+    "variations": [
+      "liquid",
+      "liquids"
+    ],
+    "emoji": "💧🥤",
+    "id": "gl204"
+  },
+  "logic": {
+    "word": "logic",
+    "definition": "Clear thinking that uses good reasons to reach the right answer or decision.",
+    "variations": [
+      "logic",
+      "logical"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl205"
+  },
+  "logical": {
+    "word": "logical",
+    "definition": "following a clear and sensible order or way of thinking",
+    "variations": [
+      "logical",
+      "logically"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl206"
+  },
+  "lungs": {
+    "word": "lungs",
+    "definition": "the two organs used for breathing",
+    "variations": [
+      "lung",
+      "lungs"
+    ],
+    "emoji": "🫁",
+    "id": "gl207"
+  },
+  "malaria": {
+    "word": "malaria",
+    "definition": "a disease spread by mosquitoes and caused by parasites",
+    "variations": [
+      "malaria"
+    ],
+    "emoji": "🦟🤒",
+    "id": "gl208"
+  },
+  "mandatory": {
+    "word": "mandatory",
+    "definition": "required by a rule; something you must do",
+    "variations": [
+      "mandatory",
+      "mandatorily"
+    ],
+    "emoji": "🔵✅",
+    "id": "gl209"
+  },
+  "mandatory signs": {
+    "word": "mandatory signs",
+    "definition": "signs that show something must be done",
+    "variations": [
+      "mandatory sign"
+    ],
+    "emoji": "🔵📌✅",
+    "id": "gl210"
+  },
+  "mass": {
+    "word": "mass",
+    "definition": "the amount of matter in something",
+    "variations": [
+      "mass",
+      "masses"
+    ],
+    "emoji": "⚖️📦",
+    "id": "gl211"
+  },
+  "matter": {
+    "word": "matter",
+    "definition": "Anything that has mass and takes up space.",
+    "variations": [
+      "matter"
+    ],
+    "emoji": "🧪🌍",
+    "id": "gl212"
+  },
+  "medium": {
+    "word": "medium",
+    "definition": "a material through which light or sound travels, such as air or water",
+    "variations": [
+      "medium",
+      "media"
+    ],
+    "emoji": "🌬️💧",
+    "id": "gl213"
+  },
+  "melt": {
+    "word": "melt",
+    "definition": "To change from a solid into a liquid because of heat.",
+    "variations": [
+      "melt",
+      "melts",
+      "melted",
+      "melting"
+    ],
+    "emoji": "🧊💧",
+    "id": "gl214"
+  },
+  "memory game": {
+    "word": "memory game",
+    "definition": "a game that tests how well you can remember things",
+    "variations": [
+      "memory game",
+      "memory games"
+    ],
+    "emoji": "🧠🎮",
+    "id": "gl215"
+  },
+  "metamorphosis": {
+    "word": "metamorphosis",
+    "definition": "the process in which an insect changes its body form as it grows",
+    "variations": [
+      "metamorphosis"
+    ],
+    "emoji": "🐛🦋",
+    "id": "gl216"
+  },
+  "mineral": {
+    "word": "mineral",
+    "definition": "a natural nutrient that helps the body build strong bones, teeth and other parts",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🦴💧",
+    "id": "gl217"
+  },
+  "minerals": {
+    "word": "minerals",
+    "definition": "important substances in food that help build strong bones, teeth and other body parts",
+    "variations": [
+      "mineral"
+    ],
+    "emoji": "🦴🥛⚙️",
+    "id": "gl218"
+  },
+  "mirror": {
+    "word": "mirror",
+    "definition": "a smooth surface that reflects light and shows an image",
+    "variations": [
+      "mirror",
+      "mirrors"
+    ],
+    "emoji": "🪞✨",
+    "id": "gl219"
+  },
+  "modify": {
+    "word": "modify",
+    "definition": "To change something so it works differently or better.",
+    "variations": [
+      "modify",
+      "modifies",
+      "modified",
+      "modifying"
+    ],
+    "emoji": "✏️🔧",
+    "id": "gl220"
+  },
+  "mosquito": {
+    "word": "mosquito",
+    "definition": "a small flying insect that bites people and can spread disease",
+    "variations": [
+      "mosquito",
+      "mosquitoes"
+    ],
+    "emoji": "🦟",
+    "id": "gl221"
+  },
+  "Motion": {
+    "word": "Motion",
+    "definition": "Movement of a Sprite, or the set of blocks used to make it move.",
+    "variations": [
+      "motion",
+      "motions"
+    ],
+    "emoji": "➡️🏃",
+    "id": "gl222"
+  },
+  "move steps": {
+    "word": "move steps",
+    "definition": "a command that makes a sprite move forward by a chosen number",
+    "variations": [
+      "move step",
+      "move steps"
+    ],
+    "emoji": "👣➡️",
+    "id": "gl223"
+  },
+  "movement": {
+    "word": "movement",
+    "definition": "A change of position or direction.",
+    "variations": [
+      "movement",
+      "movements"
+    ],
+    "emoji": "➡️🏃",
+    "id": "gl224"
+  },
+  "mucus": {
+    "word": "mucus",
+    "definition": "a thick, slippery substance made by the body, often found in the nose or throat",
+    "variations": [
+      "mucus"
+    ],
+    "emoji": "🤧🟡",
+    "id": "gl225"
+  },
+  "natural": {
+    "word": "natural",
+    "definition": "coming from nature, not made by people",
+    "variations": [
+      "natural",
+      "naturally"
+    ],
+    "emoji": "🌿🌍",
+    "id": "gl226"
+  },
+  "needles": {
+    "word": "needles",
+    "definition": "thin, sharp tools used for sewing or medical purposes",
+    "variations": [
+      "needle",
+      "needles"
+    ],
+    "emoji": "💉📍",
+    "id": "gl227"
+  },
+  "non-communicable": {
+    "word": "non-communicable",
+    "definition": "not able to spread from one person to another",
+    "variations": [
+      "non-communicable"
+    ],
+    "emoji": "🚫🦠",
+    "id": "gl228"
+  },
+  "numbness": {
+    "word": "numbness",
+    "definition": "a loss of feeling in a part of the body",
+    "variations": [
+      "numbness",
+      "numb"
+    ],
+    "emoji": "✋🦶",
+    "id": "gl229"
+  },
+  "nutrient": {
+    "word": "nutrient",
+    "definition": "a useful substance in food that helps the body grow, work and stay healthy",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🍎💚",
+    "id": "gl230"
+  },
+  "nutrients": {
+    "word": "nutrients",
+    "definition": "useful substances in food that the body needs to live, grow and stay healthy",
+    "variations": [
+      "nutrient"
+    ],
+    "emoji": "🥬🍲💚",
+    "id": "gl231"
+  },
+  "nutritional needs": {
+    "word": "nutritional needs",
+    "definition": "the types and amounts of food and nutrients a person needs to stay healthy",
+    "variations": [
+      "nutritional need",
+      "nutritional needs"
+    ],
+    "emoji": "🍎🥛📋",
+    "id": "gl232"
+  },
+  "nymph": {
+    "word": "nymph",
+    "definition": "the young form of an insect that looks like a small adult but is not fully developed",
+    "variations": [
+      "nymph",
+      "nymphs"
+    ],
+    "emoji": "🪳🐜",
+    "id": "gl233"
+  },
+  "obesity": {
+    "word": "obesity",
+    "definition": "the condition of being very overweight in a way that may harm health",
+    "variations": [
+      "obesity",
+      "obese"
+    ],
+    "emoji": "⚕️🏥",
+    "id": "gl234"
+  },
+  "obstacle avoidance": {
+    "word": "obstacle avoidance",
+    "definition": "a type of game where a player tries to avoid things in the way",
+    "variations": [
+      "obstacle avoidance"
+    ],
+    "emoji": "🚧🎮",
+    "id": "gl235"
+  },
+  "opaque": {
+    "word": "opaque",
+    "definition": "not allowing light to pass through",
+    "variations": [
+      "opaque"
+    ],
+    "emoji": "🧱🚫💡",
+    "id": "gl236"
+  },
+  "operator": {
+    "word": "operator",
+    "definition": "A block or symbol used to compare, calculate, or work with numbers and values.",
+    "variations": [
+      "operator",
+      "operators"
+    ],
+    "emoji": "➕🧮",
+    "id": "gl237"
+  },
+  "oral hygiene": {
+    "word": "oral hygiene",
+    "definition": "keeping the mouth, teeth and gums clean to prevent disease",
+    "variations": [
+      "oral care"
+    ],
+    "emoji": "🪥😁🦷",
+    "id": "gl238"
+  },
+  "organism": {
+    "word": "organism",
+    "definition": "a living thing such as a person, animal, or plant",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🌱🐾🧍",
+    "id": "gl239"
+  },
+  "oscillation": {
+    "word": "oscillation",
+    "definition": "a repeated back-and-forth movement",
+    "variations": [
+      "oscillation",
+      "oscillations"
+    ],
+    "emoji": "↔️〰️",
+    "id": "gl240"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "a gas in the air that is needed for burning and for life",
+    "variations": [
+      "oxygen gas"
+    ],
+    "emoji": "🌬️🫁🔥",
+    "id": "gl241"
+  },
+  "Paint": {
+    "word": "Paint",
+    "definition": "a computer program used for drawing and colouring pictures and shapes",
+    "variations": [
+      "Paint"
+    ],
+    "emoji": "🎨🖥️",
+    "id": "gl242"
+  },
+  "pancreas": {
+    "word": "pancreas",
+    "definition": "an organ in the body that helps control blood sugar",
+    "variations": [
+      "pancreas",
+      "pancreases"
+    ],
+    "emoji": "🩺",
+    "id": "gl243"
+  },
+  "parasites": {
+    "word": "parasites",
+    "definition": "living things that live in or on another living thing and cause harm",
+    "variations": [
+      "parasite",
+      "parasites"
+    ],
+    "emoji": "🪱🦠",
+    "id": "gl244"
+  },
+  "paste": {
+    "word": "paste",
+    "definition": "to place something you copied into a new position",
+    "variations": [
+      "paste",
+      "pastes",
+      "pasted",
+      "pasting"
+    ],
+    "emoji": "📋➡️",
+    "id": "gl245"
+  },
+  "pathogen": {
+    "word": "pathogen",
+    "definition": "a tiny living thing or germ that can cause disease",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl246"
+  },
+  "pathogens": {
+    "word": "pathogens",
+    "definition": "tiny organisms or agents that cause disease",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl247"
+  },
+  "pattern": {
+    "word": "pattern",
+    "definition": "something arranged in a repeated or logical order",
+    "variations": [
+      "pattern",
+      "patterns"
+    ],
+    "emoji": "🔷🔁",
+    "id": "gl248"
+  },
+  "penetrate": {
+    "word": "penetrate",
+    "definition": "to pass into or through something",
+    "variations": [
+      "penetrate",
+      "penetrates",
+      "penetrated",
+      "penetrating"
+    ],
+    "emoji": "➡️🪟",
+    "id": "gl249"
+  },
+  "pesticide": {
+    "word": "pesticide",
+    "definition": "a chemical used to kill harmful insects, plants, or other pests",
+    "variations": [
+      "pesticide",
+      "pesticides"
+    ],
+    "emoji": "🧪🌾🐛",
+    "id": "gl250"
+  },
+  "photosynthesis": {
+    "word": "photosynthesis",
+    "definition": "the process by which plants use light to make their food",
+    "variations": [
+      "photosynthesis"
+    ],
+    "emoji": "🌿☀️🍃",
+    "id": "gl251"
+  },
+  "physical exercise": {
+    "word": "physical exercise",
+    "definition": "body movement or activity done to keep the body strong, fit and healthy",
+    "variations": [
+      "physical exercise",
+      "physical exercises"
+    ],
+    "emoji": "🏃💪",
+    "id": "gl252"
+  },
+  "physical exercises": {
+    "word": "physical exercises",
+    "definition": "body activities such as running, walking or playing games to keep fit and healthy",
+    "variations": [
+      "physical exercise",
+      "exercise",
+      "exercises"
+    ],
+    "emoji": "🏃⚽💪",
+    "id": "gl253"
+  },
+  "playtime": {
+    "word": "playtime",
+    "definition": "the time when a game is played",
+    "variations": [
+      "playtime"
+    ],
+    "emoji": "⏰🎮",
+    "id": "gl254"
+  },
+  "PNG": {
+    "word": "PNG",
+    "definition": "a type of picture file used to save images on a computer",
+    "variations": [
+      "PNG",
+      "PNG picture",
+      "PNG pictures"
+    ],
+    "emoji": "🖼️💾",
+    "id": "gl255"
+  },
+  "polluted air": {
+    "word": "polluted air",
+    "definition": "air that is dirty or harmful to breathe",
+    "variations": [
+      "air pollution"
+    ],
+    "emoji": "🏭🌫️😷",
+    "id": "gl256"
+  },
+  "position": {
+    "word": "position",
+    "definition": "The place where something is located.",
+    "variations": [
+      "position",
+      "positions"
+    ],
+    "emoji": "📍🧭",
+    "id": "gl257"
+  },
+  "prevent": {
+    "word": "prevent",
+    "definition": "to stop something harmful from happening",
+    "variations": [
+      "prevent",
+      "prevents",
+      "prevented",
+      "preventing",
+      "prevention"
+    ],
+    "emoji": "🛡️✅",
+    "id": "gl258"
+  },
+  "prevention": {
+    "word": "prevention",
+    "definition": "action taken to stop something harmful, such as a disease, from happening",
+    "variations": [
+      "prevention",
+      "prevent",
+      "prevented",
+      "preventing"
+    ],
+    "emoji": "🛡️✅",
+    "id": "gl259"
+  },
+  "program": {
+    "word": "program",
+    "definition": "A set of instructions given to a computer to make it do a task.",
+    "variations": [
+      "program",
+      "programs",
+      "programming"
+    ],
+    "emoji": "💻🛠️",
+    "id": "gl260"
+  },
+  "program control structures": {
+    "word": "program control structures",
+    "definition": "ways of organising how instructions move and work in a computer program",
+    "variations": [
+      "program control structure",
+      "program control structures"
+    ],
+    "emoji": "💻🧩",
+    "id": "gl261"
+  },
+  "programming language": {
+    "word": "programming language",
+    "definition": "a special language used to write instructions for a computer",
+    "variations": [
+      "programming language",
+      "programming languages"
+    ],
+    "emoji": "💻⌨️",
+    "id": "gl262"
+  },
+  "prohibition": {
+    "word": "prohibition",
+    "definition": "a rule or sign that shows something is not allowed",
+    "variations": [
+      "prohibition",
+      "prohibitions",
+      "prohibit",
+      "prohibited"
+    ],
+    "emoji": "🚫⛔",
+    "id": "gl263"
+  },
+  "prohibition signs": {
+    "word": "prohibition signs",
+    "definition": "signs that show something is not allowed",
+    "variations": [
+      "prohibition sign"
+    ],
+    "emoji": "🚫⛔🪧",
+    "id": "gl264"
+  },
+  "project": {
+    "word": "project",
+    "definition": "A piece of work you create in Scratch, such as a game or animation.",
+    "variations": [
+      "project",
+      "projects"
+    ],
+    "emoji": "📂🎮",
+    "id": "gl265"
+  },
+  "property": {
+    "word": "property",
+    "definition": "buildings or things that belong to someone",
+    "variations": [
+      "properties"
+    ],
+    "emoji": "🏠📦",
+    "id": "gl266"
+  },
+  "proportion": {
+    "word": "proportion",
+    "definition": "the amount of one thing compared with another amount",
+    "variations": [
+      "proportion",
+      "proportions"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl267"
+  },
+  "protective foods": {
+    "word": "protective foods",
+    "definition": "foods that help protect the body from illness and keep it healthy",
+    "variations": [
+      "protective food",
+      "protective foods"
+    ],
+    "emoji": "🛡️🥕",
+    "id": "gl268"
+  },
+  "protective gear": {
+    "word": "protective gear",
+    "definition": "special clothing or equipment worn to keep someone safe from harm",
+    "variations": [],
+    "emoji": "🧤🦺⛑️",
+    "id": "gl269"
+  },
+  "protein": {
+    "word": "protein",
+    "definition": "a nutrient that helps the body grow and repair tissues",
+    "variations": [
+      "protein",
+      "proteins"
+    ],
+    "emoji": "🥚🐟",
+    "id": "gl270"
+  },
+  "puddles": {
+    "word": "puddles",
+    "definition": "small pools of water on the ground",
+    "variations": [
+      "puddle",
+      "puddles"
+    ],
+    "emoji": "💧🟦",
+    "id": "gl271"
+  },
+  "pupa": {
+    "word": "pupa",
+    "definition": "the stage in an insect’s life when it changes from larva into an adult",
+    "variations": [
+      "pupa",
+      "pupae"
+    ],
+    "emoji": "🛌🪰",
+    "id": "gl272"
+  },
+  "quiz game": {
+    "word": "quiz game",
+    "definition": "a game where players answer questions",
+    "variations": [
+      "quiz game",
+      "quiz games"
+    ],
+    "emoji": "❓🎮",
+    "id": "gl273"
+  },
+  "radiation": {
+    "word": "radiation",
+    "definition": "the transfer of heat or light energy through space without needing touch",
+    "variations": [
+      "radiation",
+      "radiations"
+    ],
+    "emoji": "☀️🌡️",
+    "id": "gl274"
+  },
+  "random position": {
+    "word": "random position",
+    "definition": "A place chosen by chance, not a fixed place.",
+    "variations": [
+      "random position",
+      "random positions"
+    ],
+    "emoji": "🎲📍",
+    "id": "gl275"
+  },
+  "rash": {
+    "word": "rash",
+    "definition": "an area of irritated or spotted skin",
+    "variations": [
+      "rash",
+      "rashes"
+    ],
+    "emoji": "🔴🩺",
+    "id": "gl276"
+  },
+  "rashes": {
+    "word": "rashes",
+    "definition": "areas of red or sore skin caused by illness or irritation",
+    "variations": [
+      "rash"
+    ],
+    "emoji": "🔴🩹😣",
+    "id": "gl277"
+  },
+  "razors": {
+    "word": "razors",
+    "definition": "sharp tools used for shaving hair",
+    "variations": [
+      "razor",
+      "razors"
+    ],
+    "emoji": "🪒",
+    "id": "gl278"
+  },
+  "rectangle": {
+    "word": "rectangle",
+    "definition": "a shape with four straight sides and four right angles",
+    "variations": [
+      "rectangle",
+      "rectangles"
+    ],
+    "emoji": "▭📐",
+    "id": "gl279"
+  },
+  "reflection": {
+    "word": "reflection",
+    "definition": "the bouncing back of light from a surface",
+    "variations": [
+      "reflection",
+      "reflections",
+      "reflect",
+      "reflected",
+      "reflecting"
+    ],
+    "emoji": "🪞✨",
+    "id": "gl280"
+  },
+  "reflective": {
+    "word": "reflective",
+    "definition": "able to bounce light back",
+    "variations": [
+      "reflective",
+      "non-reflective"
+    ],
+    "emoji": "🪞✨",
+    "id": "gl281"
+  },
+  "refraction": {
+    "word": "refraction",
+    "definition": "the bending of light when it moves from one material to another",
+    "variations": [
+      "refraction",
+      "refract",
+      "refracted",
+      "refracting"
+    ],
+    "emoji": "💧↘️💡",
+    "id": "gl282"
+  },
+  "regularly": {
+    "word": "regularly",
+    "definition": "done often and in a steady way, not just once in a while",
+    "variations": [
+      "regular",
+      "regular"
+    ],
+    "emoji": "📅🔁⏰",
+    "id": "gl283"
+  },
+  "regulatory": {
+    "word": "regulatory",
+    "definition": "related to rules or control",
+    "variations": [
+      "regulatory",
+      "regulate",
+      "regulates",
+      "regulated",
+      "regulation",
+      "regulations"
+    ],
+    "emoji": "📏📋",
+    "id": "gl284"
+  },
+  "repeat": {
+    "word": "repeat",
+    "definition": "To do something again one or more times.",
+    "variations": [
+      "repeat",
+      "repeats",
+      "repeated",
+      "repeating"
+    ],
+    "emoji": "🔁🔂",
+    "id": "gl285"
+  },
+  "repeat block": {
+    "word": "repeat block",
+    "definition": "a block that tells the computer to do something a set number of times",
+    "variations": [
+      "repeat block",
+      "repeat blocks"
+    ],
+    "emoji": "🔁🧱",
+    "id": "gl286"
+  },
+  "repellents": {
+    "word": "repellents",
+    "definition": "substances that keep insects away",
+    "variations": [
+      "repellent",
+      "repellents"
+    ],
+    "emoji": "🦟🚫",
+    "id": "gl287"
+  },
+  "repetition": {
+    "word": "repetition",
+    "definition": "doing the same action again and again in a program",
+    "variations": [
+      "repetition",
+      "repetitions",
+      "repeat",
+      "repeats",
+      "repeatedly"
+    ],
+    "emoji": "🔁🔂",
+    "id": "gl288"
+  },
+  "respiratory diseases": {
+    "word": "respiratory diseases",
+    "definition": "diseases that affect breathing or the lungs",
+    "variations": [
+      "respiratory disease"
+    ],
+    "emoji": "🫁😮‍💨🏥",
+    "id": "gl289"
+  },
+  "respiratory system": {
+    "word": "respiratory system",
+    "definition": "the parts of the body used for breathing, such as the nose, windpipe and lungs",
+    "variations": [
+      "respiratory system",
+      "respiratory systems"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl290"
+  },
+  "rheum": {
+    "word": "rheum",
+    "definition": "the small dirty substance that collects in the corners of the eyes, especially after sleep",
+    "variations": [],
+    "emoji": "👁️💧😴",
+    "id": "gl291"
+  },
+  "right-angled triangle": {
+    "word": "right-angled triangle",
+    "definition": "a triangle that has one angle of 90 degrees",
+    "variations": [
+      "right-angled triangle",
+      "right-angled triangles"
+    ],
+    "emoji": "🔺📐",
+    "id": "gl292"
+  },
+  "risk": {
+    "word": "risk",
+    "definition": "the chance that something harmful may happen",
+    "variations": [
+      "risk",
+      "risks",
+      "risky"
+    ],
+    "emoji": "⚠️🎲",
+    "id": "gl293"
+  },
+  "rotate": {
+    "word": "rotate",
+    "definition": "To turn around a point or centre.",
+    "variations": [
+      "rotate",
+      "rotates",
+      "rotated",
+      "rotating"
+    ],
+    "emoji": "🔄↩️",
+    "id": "gl294"
+  },
+  "rotation": {
+    "word": "rotation",
+    "definition": "Turning around a centre point.",
+    "variations": [
+      "rotation",
+      "rotations",
+      "rotate",
+      "rotates",
+      "rotated",
+      "rotating"
+    ],
+    "emoji": "🔄↩️",
+    "id": "gl295"
+  },
+  "safety signs": {
+    "word": "safety signs",
+    "definition": "signs that give warnings or instructions to help people avoid danger",
+    "variations": [
+      "safety sign",
+      "safety signs"
+    ],
+    "emoji": "⚠️🚸",
+    "id": "gl296"
+  },
+  "save": {
+    "word": "save",
+    "definition": "To store your work on a computer so you can use it again later.",
+    "variations": [
+      "save",
+      "saves",
+      "saved",
+      "saving"
+    ],
+    "emoji": "💾📁",
+    "id": "gl297"
+  },
+  "scalp": {
+    "word": "scalp",
+    "definition": "the skin on the top of the head where hair grows",
+    "variations": [
+      "scalp",
+      "scalps"
+    ],
+    "emoji": "👤💇",
+    "id": "gl298"
+  },
+  "Scratch": {
+    "word": "Scratch",
+    "definition": "A computer program that lets you create games, stories, and animations using blocks.",
+    "variations": [
+      "Scratch"
+    ],
+    "emoji": "🐱💻🎮",
+    "id": "gl299"
+  },
+  "script": {
+    "word": "script",
+    "definition": "A set of connected blocks or instructions that tells the computer what to do.",
+    "variations": [
+      "script",
+      "scripts"
+    ],
+    "emoji": "📜💻",
+    "id": "gl300"
+  },
+  "script area": {
+    "word": "script area",
+    "definition": "The place in Scratch where you put blocks together to make a program.",
+    "variations": [
+      "script area",
+      "script areas"
+    ],
+    "emoji": "🧩💻",
+    "id": "gl301"
+  },
+  "search": {
+    "word": "search",
+    "definition": "To look for something, often by typing a word into a box.",
+    "variations": [
+      "search",
+      "searches",
+      "searched",
+      "searching"
+    ],
+    "emoji": "🔍💻",
+    "id": "gl302"
+  },
+  "search bar": {
+    "word": "search bar",
+    "definition": "the box on a screen where you type words to find something",
+    "variations": [
+      "search bar",
+      "search bars"
+    ],
+    "emoji": "🔍⌨️",
+    "id": "gl303"
+  },
+  "selection": {
+    "word": "selection",
+    "definition": "a control structure where a program chooses between actions",
+    "variations": [
+      "selection",
+      "selections",
+      "select",
+      "selects"
+    ],
+    "emoji": "✅🔀",
+    "id": "gl304"
+  },
+  "Sensing": {
+    "word": "Sensing",
+    "definition": "A group of Scratch blocks that check what is happening, such as whether a key is pressed.",
+    "variations": [
+      "sensing"
+    ],
+    "emoji": "👀🕹️",
+    "id": "gl305"
+  },
+  "sequence": {
+    "word": "sequence",
+    "definition": "A set of steps or items arranged in the correct order.",
+    "variations": [
+      "sequence",
+      "sequences"
+    ],
+    "emoji": "1️⃣2️⃣3️⃣",
+    "id": "gl306"
+  },
+  "severe": {
+    "word": "severe",
+    "definition": "very serious or very bad",
+    "variations": [
+      "severe",
+      "severely"
+    ],
+    "emoji": "⚠️🚑",
+    "id": "gl307"
+  },
+  "shadow": {
+    "word": "shadow",
+    "definition": "a dark shape made when an object blocks light",
+    "variations": [
+      "shadow",
+      "shadows"
+    ],
+    "emoji": "🌑👤",
+    "id": "gl308"
+  },
+  "shape": {
+    "word": "shape",
+    "definition": "The form or outline of an object.",
+    "variations": [
+      "shape",
+      "shapes"
+    ],
+    "emoji": "🔷◼️",
+    "id": "gl309"
+  },
+  "shivering": {
+    "word": "shivering",
+    "definition": "shaking slightly because of cold or illness",
+    "variations": [
+      "shiver",
+      "shivers",
+      "shivering",
+      "shivered"
+    ],
+    "emoji": "🥶⚡",
+    "id": "gl310"
+  },
+  "siren": {
+    "word": "siren",
+    "definition": "a loud warning sound used to alert people, for example on an ambulance",
+    "variations": [
+      "siren",
+      "sirens"
+    ],
+    "emoji": "🚑🔊",
+    "id": "gl311"
+  },
+  "slope": {
+    "word": "slope",
+    "definition": "a surface that goes up or down at an angle",
+    "variations": [
+      "slope",
+      "slopes"
+    ],
+    "emoji": "📐⛰️",
+    "id": "gl312"
+  },
+  "smelting": {
+    "word": "smelting",
+    "definition": "the process of heating rock or metal ore to get metal out of it",
+    "variations": [
+      "smelt",
+      "smelts",
+      "smelted"
+    ],
+    "emoji": "🏭🔥🔩",
+    "id": "gl313"
+  },
+  "sneezes": {
+    "word": "sneezes",
+    "definition": "sends air out suddenly through the nose and mouth",
+    "variations": [
+      "sneeze",
+      "sneezes",
+      "sneezed",
+      "sneezing"
+    ],
+    "emoji": "🤧💨",
+    "id": "gl314"
+  },
+  "soil erosion": {
+    "word": "soil erosion",
+    "definition": "the wearing away or removal of soil by wind, water, or other forces",
+    "variations": [],
+    "emoji": "🌧️🟫",
+    "id": "gl315"
+  },
+  "soil fertility": {
+    "word": "soil fertility",
+    "definition": "how well soil can support the growth of plants",
+    "variations": [],
+    "emoji": "🌱🟫",
+    "id": "gl316"
+  },
+  "solar panel": {
+    "word": "solar panel",
+    "definition": "a device that changes sunlight into electricity",
+    "variations": [
+      "solar panel",
+      "solar panels"
+    ],
+    "emoji": "☀️🔋🏠",
+    "id": "gl317"
+  },
+  "solid": {
+    "word": "solid",
+    "definition": "A state of matter that has a fixed shape and a fixed volume.",
+    "variations": [
+      "solid",
+      "solids"
+    ],
+    "emoji": "🧊⬜",
+    "id": "gl318"
+  },
+  "soot": {
+    "word": "soot",
+    "definition": "a black powder made during burning, especially when burning is incomplete",
+    "variations": [],
+    "emoji": "⚫🔥",
+    "id": "gl319"
+  },
+  "Sound": {
+    "word": "Sound",
+    "definition": "Audio you can play in a program or game.",
+    "variations": [
+      "sound",
+      "sounds"
+    ],
+    "emoji": "🔊🎵",
+    "id": "gl320"
+  },
+  "sound effect": {
+    "word": "sound effect",
+    "definition": "A short sound added to a game or program to make it more interesting.",
+    "variations": [
+      "sound effect",
+      "sound effects"
+    ],
+    "emoji": "🔉✨🎮",
+    "id": "gl321"
+  },
+  "sound energy": {
+    "word": "sound energy",
+    "definition": "a type of energy made by vibrations that we can hear",
+    "variations": [
+      "sound energy"
+    ],
+    "emoji": "🔊🎵",
+    "id": "gl322"
+  },
+  "sound wave": {
+    "word": "sound wave",
+    "definition": "a moving vibration that travels through a material and lets us hear sound",
+    "variations": [
+      "sound wave",
+      "sound waves"
+    ],
+    "emoji": "🔊〰️",
+    "id": "gl323"
+  },
+  "source": {
+    "word": "source",
+    "definition": "the place or thing from which something comes",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "🌞🔌",
+    "id": "gl324"
+  },
+  "spine": {
+    "word": "spine",
+    "definition": "the row of bones down the back that supports the body",
+    "variations": [
+      "spine",
+      "spines"
+    ],
+    "emoji": "🦴",
+    "id": "gl325"
+  },
+  "spitting": {
+    "word": "spitting",
+    "definition": "forcing saliva out of the mouth",
+    "variations": [
+      "spit",
+      "spits",
+      "spitting",
+      "spat"
+    ],
+    "emoji": "😮💦",
+    "id": "gl326"
+  },
+  "spread": {
+    "word": "spread",
+    "definition": "to pass from one person, place, or thing to another",
+    "variations": [
+      "spread",
+      "spreads",
+      "spreading"
+    ],
+    "emoji": "↔️🦠",
+    "id": "gl327"
+  },
+  "Sprite": {
+    "word": "Sprite",
+    "definition": "A character or object in a computer game or Scratch project that can move and do actions.",
+    "variations": [
+      "Sprite",
+      "Sprites"
+    ],
+    "emoji": "🐱🎮🕹️",
+    "id": "gl328"
+  },
+  "Sprite list area": {
+    "word": "Sprite list area",
+    "definition": "the part of the Scratch window that shows all the sprites in the project",
+    "variations": [
+      "Sprite list area",
+      "Sprite list areas"
+    ],
+    "emoji": "📋🐱",
+    "id": "gl329"
+  },
+  "stage": {
+    "word": "stage",
+    "definition": "The area in Scratch where the game, story or action is shown.",
+    "variations": [
+      "stage",
+      "stages"
+    ],
+    "emoji": "🎭🖥️",
+    "id": "gl330"
+  },
+  "stagnant": {
+    "word": "stagnant",
+    "definition": "not flowing or moving, especially used for still water",
+    "variations": [
+      "stagnant"
+    ],
+    "emoji": "💧🦟",
+    "id": "gl331"
+  },
+  "state": {
+    "word": "state",
+    "definition": "the form that matter is in, such as solid, liquid, or gas",
+    "variations": [
+      "state",
+      "states"
+    ],
+    "emoji": "🔄🧊💧",
+    "id": "gl332"
+  },
+  "state of matter": {
+    "word": "state of matter",
+    "definition": "the form matter takes, such as solid, liquid or gas",
+    "variations": [
+      "state of matter",
+      "states of matter"
+    ],
+    "emoji": "🧊💧💨",
+    "id": "gl333"
+  },
+  "steam": {
+    "word": "steam",
+    "definition": "The hot gas that comes from boiling water.",
+    "variations": [
+      "steam"
+    ],
+    "emoji": "♨️💨",
+    "id": "gl334"
+  },
+  "step": {
+    "word": "step",
+    "definition": "A unit of movement in Scratch that tells a sprite how far to move.",
+    "variations": [
+      "step",
+      "steps"
+    ],
+    "emoji": "👣➡️",
+    "id": "gl335"
+  },
+  "steps": {
+    "word": "steps",
+    "definition": "Small movement amounts used to move a Sprite in Scratch.",
+    "variations": [
+      "step",
+      "steps"
+    ],
+    "emoji": "👣➡️",
+    "id": "gl336"
+  },
+  "storage": {
+    "word": "storage",
+    "definition": "the way something is kept safely for future use",
+    "variations": [
+      "storage",
+      "store",
+      "stores",
+      "stored",
+      "storing"
+    ],
+    "emoji": "📦🗄️",
+    "id": "gl337"
+  },
+  "stress": {
+    "word": "stress",
+    "definition": "a worried or tense feeling caused by problems or pressure",
+    "variations": [
+      "stressed",
+      "stressful"
+    ],
+    "emoji": "😟🧠⚠️",
+    "id": "gl338"
+  },
+  "surface": {
+    "word": "surface",
+    "definition": "the outside part of an object",
+    "variations": [
+      "surface",
+      "surfaces"
+    ],
+    "emoji": "⬜✋",
+    "id": "gl339"
+  },
+  "surroundings": {
+    "word": "surroundings",
+    "definition": "the places and things around a person",
+    "variations": [
+      "surrounding",
+      "surrounding area",
+      "surrounding areas"
+    ],
+    "emoji": "🏡🌳👀",
+    "id": "gl340"
+  },
+  "symbols": {
+    "word": "symbols",
+    "definition": "pictures or marks that stand for an idea or give information",
+    "variations": [
+      "symbol"
+    ],
+    "emoji": "🔣📍🪧",
+    "id": "gl341"
+  },
+  "symptom": {
+    "word": "symptom",
+    "definition": "a sign that shows a person may have a disease or health problem",
+    "variations": [
+      "symptom",
+      "symptoms"
+    ],
+    "emoji": "🤒⚠️",
+    "id": "gl342"
+  },
+  "symptoms": {
+    "word": "symptoms",
+    "definition": "signs that show a person has a disease",
+    "variations": [
+      "symptom",
+      "symptoms"
+    ],
+    "emoji": "🤒⚠️",
+    "id": "gl343"
+  },
+  "temperature": {
+    "word": "temperature",
+    "definition": "A measure of how hot or cold something is.",
+    "variations": [
+      "temperature",
+      "temperatures"
+    ],
+    "emoji": "🌡️🔥❄️",
+    "id": "gl344"
+  },
+  "test": {
+    "word": "test",
+    "definition": "to try something to see if it works correctly",
+    "variations": [
+      "test",
+      "tests",
+      "tested",
+      "testing"
+    ],
+    "emoji": "🧪✅",
+    "id": "gl345"
+  },
+  "thermometer": {
+    "word": "thermometer",
+    "definition": "A tool used to measure temperature.",
+    "variations": [
+      "thermometer",
+      "thermometers"
+    ],
+    "emoji": "🌡️📏",
+    "id": "gl346"
+  },
+  "tissues": {
+    "word": "tissues",
+    "definition": "groups of body cells that work together to do a special job",
+    "variations": [
+      "tissue"
+    ],
+    "emoji": "🧫🩹🫀",
+    "id": "gl347"
+  },
+  "transfer": {
+    "word": "transfer",
+    "definition": "to move something from one place to another",
+    "variations": [
+      "transfer",
+      "transfers",
+      "transferred",
+      "transferring"
+    ],
+    "emoji": "➡️♨️",
+    "id": "gl348"
+  },
+  "transfusion": {
+    "word": "transfusion",
+    "definition": "the process of putting blood from one person into another person’s body",
+    "variations": [
+      "transfusion",
+      "transfusions"
+    ],
+    "emoji": "🩸🏥",
+    "id": "gl349"
+  },
+  "translucent": {
+    "word": "translucent",
+    "definition": "allowing only some light to pass through",
+    "variations": [
+      "translucent"
+    ],
+    "emoji": "🫧💡",
+    "id": "gl350"
+  },
+  "transmit": {
+    "word": "transmit",
+    "definition": "to send or carry something from one place to another, such as sound through air or water",
+    "variations": [
+      "transmit",
+      "transmits",
+      "transmitted",
+      "transmitting",
+      "transmission"
+    ],
+    "emoji": "🔊➡️",
+    "id": "gl351"
+  },
+  "transmits": {
+    "word": "transmits",
+    "definition": "passes or spreads something, especially a disease, from one person or thing to another",
+    "variations": [
+      "transmit",
+      "transmits",
+      "transmitted",
+      "transmitting"
+    ],
+    "emoji": "↔️🦠",
+    "id": "gl352"
+  },
+  "transparent": {
+    "word": "transparent",
+    "definition": "allowing light to pass through clearly so objects can be seen through it",
+    "variations": [
+      "transparent",
+      "transparency"
+    ],
+    "emoji": "🪟💡",
+    "id": "gl353"
+  },
+  "treatment": {
+    "word": "treatment",
+    "definition": "medical care given to help cure or control a disease",
+    "variations": [
+      "treatment",
+      "treatments"
+    ],
+    "emoji": "💊🏥",
+    "id": "gl354"
+  },
+  "triangular": {
+    "word": "triangular",
+    "definition": "having the shape of a triangle",
+    "variations": [
+      "triangle"
+    ],
+    "emoji": "🔺📐🟥",
+    "id": "gl355"
+  },
+  "trigger": {
+    "word": "trigger",
+    "definition": "something that causes a reaction or starts something happening",
+    "variations": [
+      "trigger",
+      "triggers",
+      "triggered",
+      "triggering"
+    ],
+    "emoji": "⚠️👉",
+    "id": "gl356"
+  },
+  "true": {
+    "word": "true",
+    "definition": "showing that a condition is correct",
+    "variations": [
+      "true"
+    ],
+    "emoji": "✅",
+    "id": "gl357"
+  },
+  "tuberculosis": {
+    "word": "tuberculosis",
+    "definition": "a serious bacterial disease that usually affects the lungs",
+    "variations": [
+      "tuberculosis"
+    ],
+    "emoji": "🫁🤒",
+    "id": "gl358"
+  },
+  "tumor": {
+    "word": "tumor",
+    "definition": "a lump formed when cells grow too much in one place",
+    "variations": [
+      "tumor",
+      "tumors"
+    ],
+    "emoji": "⚠️🩺",
+    "id": "gl359"
+  },
+  "tumour": {
+    "word": "tumour",
+    "definition": "a lump or swelling caused by abnormal growth of cells in the body",
+    "variations": [
+      "tumour",
+      "tumours"
+    ],
+    "emoji": "⚕️🧫",
+    "id": "gl360"
+  },
+  "turn degrees": {
+    "word": "turn degrees",
+    "definition": "a command that rotates a sprite by a chosen amount",
+    "variations": [
+      "turn degree",
+      "turn degrees"
+    ],
+    "emoji": "🔄📐",
+    "id": "gl361"
+  },
+  "urination": {
+    "word": "urination",
+    "definition": "the act of passing urine out of the body",
+    "variations": [
+      "urination",
+      "urinate",
+      "urinating"
+    ],
+    "emoji": "🚻💧",
+    "id": "gl362"
+  },
+  "urine": {
+    "word": "urine",
+    "definition": "liquid waste passed out of the body",
+    "variations": [
+      "urine"
+    ],
+    "emoji": "💛🚽",
+    "id": "gl363"
+  },
+  "utensils": {
+    "word": "utensils",
+    "definition": "tools used for eating or cooking, such as spoons and knives",
+    "variations": [
+      "utensil",
+      "utensils"
+    ],
+    "emoji": "🍴🥄",
+    "id": "gl364"
+  },
+  "vaccinating": {
+    "word": "vaccinating",
+    "definition": "giving a vaccine to protect someone from disease",
+    "variations": [
+      "vaccinate",
+      "vaccinates",
+      "vaccinated",
+      "vaccinating"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl365"
+  },
+  "vacuum": {
+    "word": "vacuum",
+    "definition": "a space with no air or almost no matter in it",
+    "variations": [
+      "vacuum",
+      "vacuums"
+    ],
+    "emoji": "🌌⭕",
+    "id": "gl366"
+  },
+  "vapour": {
+    "word": "vapour",
+    "definition": "Water in the form of gas.",
+    "variations": [
+      "vapour",
+      "vapours",
+      "water vapour"
+    ],
+    "emoji": "💨💧",
+    "id": "gl367"
+  },
+  "vegetable": {
+    "word": "vegetable",
+    "definition": "a plant or part of a plant eaten as food and good for health",
+    "variations": [
+      "vegetable",
+      "vegetables"
+    ],
+    "emoji": "🥬🥕",
+    "id": "gl368"
+  },
+  "vegetation": {
+    "word": "vegetation",
+    "definition": "plants growing in a place",
+    "variations": [],
+    "emoji": "🌿🌱",
+    "id": "gl369"
+  },
+  "ventilated": {
+    "word": "ventilated",
+    "definition": "supplied with fresh air",
+    "variations": [
+      "ventilate",
+      "ventilates",
+      "ventilated",
+      "ventilating"
+    ],
+    "emoji": "🌬️🏠",
+    "id": "gl370"
+  },
+  "vibration": {
+    "word": "vibration",
+    "definition": "a quick back-and-forth movement that produces sound",
+    "variations": [
+      "vibration",
+      "vibrations",
+      "vibrate",
+      "vibrated",
+      "vibrating"
+    ],
+    "emoji": "〰️🔔",
+    "id": "gl371"
+  },
+  "viruses": {
+    "word": "viruses",
+    "definition": "very tiny germs that cause disease and grow inside living cells",
+    "variations": [
+      "virus",
+      "viruses"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl372"
+  },
+  "visibility": {
+    "word": "visibility",
+    "definition": "how easily something can be seen",
+    "variations": [
+      "visibility",
+      "visible",
+      "visibly"
+    ],
+    "emoji": "👀🦺",
+    "id": "gl373"
+  },
+  "vision": {
+    "word": "vision",
+    "definition": "the ability to see",
+    "variations": [
+      "vision"
+    ],
+    "emoji": "👁️🌟",
+    "id": "gl374"
+  },
+  "vitamin": {
+    "word": "vitamin",
+    "definition": "a nutrient needed in small amounts to help the body stay healthy",
+    "variations": [
+      "vitamin",
+      "vitamins"
+    ],
+    "emoji": "🍊🥬",
+    "id": "gl375"
+  },
+  "vitamins": {
+    "word": "vitamins",
+    "definition": "natural substances in food that help the body stay healthy and work properly",
+    "variations": [
+      "vitamin"
+    ],
+    "emoji": "🍊🥕💊",
+    "id": "gl376"
+  },
+  "volume": {
+    "word": "volume",
+    "definition": "The amount of space something takes up.",
+    "variations": [
+      "volume",
+      "volumes"
+    ],
+    "emoji": "📏🧴",
+    "id": "gl377"
+  },
+  "vomiting": {
+    "word": "vomiting",
+    "definition": "bringing food or liquid up from the stomach through the mouth",
+    "variations": [
+      "vomit",
+      "vomits",
+      "vomiting",
+      "vomited"
+    ],
+    "emoji": "🤢🚽",
+    "id": "gl378"
+  },
+  "warning signs": {
+    "word": "warning signs",
+    "definition": "signs that warn people about danger",
+    "variations": [
+      "warning sign"
+    ],
+    "emoji": "⚠️🚧🔺",
+    "id": "gl379"
+  },
+  "water vapour": {
+    "word": "water vapour",
+    "definition": "water in the form of gas in the air",
+    "variations": [],
+    "emoji": "💧☁️",
+    "id": "gl380"
+  },
+  "wave": {
+    "word": "wave",
+    "definition": "a moving pattern that carries sound from one place to another",
+    "variations": [
+      "wave",
+      "waves"
+    ],
+    "emoji": "🌊🔊",
+    "id": "gl381"
+  },
+  "well-being": {
+    "word": "well-being",
+    "definition": "the state of being healthy, safe and feeling good in body and mind",
+    "variations": [
+      "well-being"
+    ],
+    "emoji": "😊🌿",
+    "id": "gl382"
+  }
+}

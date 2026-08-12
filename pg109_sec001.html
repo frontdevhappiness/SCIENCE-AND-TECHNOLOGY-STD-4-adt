@@ -73,6 +73,15 @@ section[data-section-id="pg109_sec001"] .matching-extra-choice{
   display:block!important;border:1px solid #a1a1aa!important;border-radius:.55rem!important;
   background:#f4f4f5!important;padding:.45rem .6rem!important;color:#52525b!important
 }
+section[data-section-id="pg109_sec001"] .matching-distractor{
+  border-color:#368e99!important;background:#fff!important;color:#262626!important;cursor:grab!important
+}
+section[data-section-id="pg109_sec001"] .matching-distractor.matching-selected{
+  outline:3px solid #3b82f6!important;outline-offset:2px!important
+}
+section[data-section-id="pg109_sec001"] .matching-distractor.placed-in-dropzone{
+  cursor:pointer!important
+}
 </style><div class="pdf-page-inner">
     <div class="mb-4">
       <h1 id="main-heading" class="font-bold mb-4 text-black" style="color:#18181b!important"><span data-id="pg109_n0011" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;">Section C:</span></h1>
@@ -92,7 +101,7 @@ section[data-section-id="pg109_sec001"] .matching-extra-choice{
         </tr>
         <tr>
           <td class="border-r-2 border-t-2 border-sky-300 p-3 align-top"><div data-id="pg109_n0022" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;">(i) Shadow</div><div class="dropzone mt-2 min-h-11 rounded-lg border-2 border-dashed border-[#368e99] bg-white/70 p-1" tabindex="0" role="button" aria-label="Matching answer area for Section A item 1"><div id="dropzone-1" class="dropzone-slot flex min-h-9 items-center justify-center" aria-live="polite"></div></div></td>
-          <td class="border-t-2 border-sky-300 p-3 align-top"><div data-id="pg109_n0024" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="matching-extra-choice">(a) Sun and moon</div></td>
+          <td class="border-t-2 border-sky-300 p-3 align-top"><div data-id="pg109_n0024" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="matching-extra-choice matching-distractor" id="distractor-a" draggable="true" tabindex="0" role="button" aria-label="(a) Sun and moon">(a) Sun and moon</div></td>
         </tr>
         <tr>
           <td class="border-r-2 border-t-2 border-sky-300 p-3 align-top"><div data-id="pg109_n0027" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;">(ii) Firewood</div><div class="dropzone mt-2 min-h-11 rounded-lg border-2 border-dashed border-[#368e99] bg-white/70 p-1" tabindex="0" role="button" aria-label="Matching answer area for Section A item 2"><div id="dropzone-2" class="dropzone-slot flex min-h-9 items-center justify-center" aria-live="polite"></div></div></td>
@@ -132,7 +141,7 @@ section[data-section-id="pg109_sec001"] .matching-extra-choice{
             <div class="space-y-4">
               <div data-id="pg110_n0012" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="activity-item" data-activity-item="item-9" id="item-9" draggable="true" tabindex="0" role="button" aria-label="(j) Sound that is reflected back after hitting a hard surface">(j) Sound that is reflected back after hitting a hard surface</div>
               <div data-id="pg110_n0014" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="activity-item" data-activity-item="item-10" id="item-10" draggable="true" tabindex="0" role="button" aria-label="(k) Sources of sound energy">(k) Sources of sound energy</div>
-              <div data-id="pg110_n0016" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="matching-extra-choice">(l) Hard objects, liquids, and gases</div>
+              <div data-id="pg110_n0016" style="font-family: Arimo, Arial, &quot;Liberation Sans&quot;, sans-serif !important; font-size: 14px !important;" class="matching-extra-choice matching-distractor" id="distractor-l" draggable="true" tabindex="0" role="button" aria-label="(l) Hard objects, liquids, and gases">(l) Hard objects, liquids, and gases</div>
             </div>
           </td>
         </tr>
@@ -146,6 +155,120 @@ section[data-section-id="pg109_sec001"] .matching-extra-choice{
 
     <script type="text/javascript">
         window.correctAnswers = JSON.parse('{"item-1":"dropzone-1","item-2":"dropzone-2","item-3":"dropzone-3","item-4":"dropzone-4","item-5":"dropzone-5","item-6":"dropzone-6","item-7":"dropzone-7","item-8":"dropzone-8","item-9":"dropzone-9","item-10":"dropzone-10"}');
+    </script>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function () {
+        var section = document.querySelector('section[data-section-id="pg109_sec001"]');
+        if (!section) return;
+        var distractors = Array.from(section.querySelectorAll('.matching-distractor'));
+        var zones = Array.from(section.querySelectorAll('.dropzone'));
+        var homes = new Map(distractors.map(function (item) { return [item, item.parentElement]; }));
+        var selected = null;
+
+        function announce(message) {
+          var region = document.getElementById('keyboard-action-announcement');
+          if (region) region.textContent = message;
+        }
+        function clearSelection() {
+          distractors.forEach(function (item) { item.classList.remove('matching-selected'); });
+          selected = null;
+          zones.forEach(function (zone) { zone.classList.remove('bg-blue-100', 'border-blue-400'); });
+        }
+        function returnHome(item) {
+          homes.get(item).appendChild(item);
+          item.classList.remove('placed-in-dropzone', 'border', 'border-red-300');
+          item.removeAttribute('aria-invalid');
+          item.querySelectorAll('.validation-mark').forEach(function (mark) { mark.remove(); });
+          item.setAttribute('aria-label', item.textContent.trim());
+        }
+        function selectItem(item) {
+          clearSelection();
+          selected = item;
+          item.classList.add('matching-selected');
+          zones.forEach(function (zone) { zone.classList.add('bg-blue-100', 'border-blue-400'); });
+          announce('Selected: ' + item.textContent.trim() + '. Choose a matching answer area.');
+        }
+        function placeItem(item, zone) {
+          var slot = zone.querySelector('.dropzone-slot');
+          if (!slot) return;
+          var otherDistractor = slot.querySelector('.matching-distractor');
+          if (otherDistractor && otherDistractor !== item) returnHome(otherDistractor);
+          var trackedItem = slot.querySelector('.activity-item');
+          if (trackedItem) trackedItem.click();
+          slot.appendChild(item);
+          item.classList.add('placed-in-dropzone');
+          item.classList.remove('matching-selected');
+          item.setAttribute('aria-label', item.textContent.trim() + ' — placed. Press Enter to remove.');
+          selected = null;
+          zones.forEach(function (entry) { entry.classList.remove('bg-blue-100', 'border-blue-400'); });
+          announce(item.textContent.trim() + ' placed.');
+        }
+        function markPlacedDistractorsIncorrect() {
+          distractors.forEach(function (item) {
+            item.querySelectorAll('.validation-mark').forEach(function (mark) { mark.remove(); });
+            if (!item.closest('.dropzone-slot')) return;
+            item.classList.add('border', 'border-red-300');
+            item.setAttribute('aria-invalid', 'true');
+            var mark = document.createElement('span');
+            mark.className = 'validation-mark ml-2 inline-flex align-middle font-bold text-red-700';
+            mark.textContent = '✗';
+            mark.setAttribute('aria-hidden', 'true');
+            item.appendChild(mark);
+          });
+        }
+
+        distractors.forEach(function (item) {
+          item.addEventListener('click', function (event) {
+            event.preventDefault();
+            if (item.closest('.dropzone-slot')) {
+              returnHome(item);
+              announce(item.textContent.trim() + ' returned to the available choices.');
+            } else if (selected === item) clearSelection();
+            else selectItem(item);
+          });
+          item.addEventListener('keydown', function (event) {
+            if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); item.click(); }
+          });
+          item.addEventListener('dragstart', function (event) {
+            selected = item;
+            event.dataTransfer.setData('text/pg109-distractor', item.id);
+            zones.forEach(function (zone) { zone.classList.add('bg-blue-100', 'border-blue-400'); });
+          });
+          item.addEventListener('dragend', clearSelection);
+        });
+        zones.forEach(function (zone) {
+          zone.addEventListener('click', function (event) {
+            if (!selected || !selected.classList.contains('matching-distractor')) return;
+            event.preventDefault(); event.stopImmediatePropagation(); placeItem(selected, zone);
+          }, true);
+          zone.addEventListener('keydown', function (event) {
+            if (selected && (event.key === 'Enter' || event.key === ' ')) {
+              event.preventDefault(); event.stopImmediatePropagation(); placeItem(selected, zone);
+            }
+          }, true);
+          zone.addEventListener('dragover', function (event) {
+            if (selected && selected.classList.contains('matching-distractor')) event.preventDefault();
+          });
+          zone.addEventListener('drop', function (event) {
+            var id = event.dataTransfer.getData('text/pg109-distractor');
+            if (!id) return;
+            event.preventDefault(); event.stopImmediatePropagation();
+            var item = document.getElementById(id);
+            if (item) placeItem(item, zone);
+          }, true);
+          var slot = zone.querySelector('.dropzone-slot');
+          if (slot) new MutationObserver(function () {
+            var distractor = slot.querySelector('.matching-distractor');
+            var tracked = slot.querySelector('.activity-item');
+            if (distractor && tracked) returnHome(distractor);
+          }).observe(slot, { childList:true });
+        });
+        document.addEventListener('click', function (event) {
+          var button = event.target.closest('button');
+          if (button && button.getAttribute('aria-label') === 'Submit') setTimeout(markPlacedDistractorsIncorrect, 0);
+        }, true);
+      });
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>

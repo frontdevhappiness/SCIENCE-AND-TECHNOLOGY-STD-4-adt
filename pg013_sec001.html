@@ -22,9 +22,16 @@
       .figure7-energy-label { grid-column: 3; grid-row: 1; align-self: center; }
       .figure7-protective-label { grid-column: 2; grid-row: 3; align-self: start; justify-self: center; margin-top: .25rem; text-align: center; }
       @media (max-width: 640px) {
-        .figure7-grid { grid-template-rows: none; }
-        .figure7-image, .figure7-body-label, .figure7-energy-label, .figure7-protective-label { grid-column: auto; grid-row: auto; }
-        .figure7-protective-label { justify-self: start; margin-top: 0; text-align: left; }
+        .figure7-grid {
+          grid-template-columns: minmax(3rem, .8fr) minmax(0, 3fr) minmax(3rem, .8fr);
+          column-gap: .35rem;
+          row-gap: .35rem;
+        }
+        .figure7-body-label, .figure7-energy-label {
+          max-width: 4rem;
+          overflow-wrap: anywhere;
+          line-height: 1.15;
+        }
       }
     </style></head>
 

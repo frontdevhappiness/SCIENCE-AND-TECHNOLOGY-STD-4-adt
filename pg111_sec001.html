@@ -136,6 +136,22 @@ section[data-section-id="pg111_sec001"] .think-upload-prompt{left:35%!important;
 </div>
     </main>
 
+    <script>
+      ['pg111_im002', 'pg111_upload1', 'pg111_im004_crop_v1', 'pg111_im001'].forEach((id) => {
+        const decorativeImage = document.querySelector(`img[data-id="${id}"]`);
+        if (decorativeImage) {
+          if (id === 'pg111_im002') {
+            decorativeImage.style.setProperty('width', '18rem', 'important');
+            decorativeImage.style.setProperty('margin', '0 auto', 'important');
+          }
+          decorativeImage.removeAttribute('data-id');
+          decorativeImage.setAttribute('alt', '');
+          decorativeImage.setAttribute('aria-hidden', 'true');
+          decorativeImage.setAttribute('role', 'presentation');
+        }
+      });
+    </script>
+
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
     <script src="./assets/offline-preloader.js"></script>

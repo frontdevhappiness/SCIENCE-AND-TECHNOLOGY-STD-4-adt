@@ -29,6 +29,8 @@
       object-fit:contain;
       box-shadow:0 1.1rem 3rem rgba(0,86,92,.22);
     }
+    .cover-shell > section { max-width:44rem; min-width:0; }
+    .cover-shell img { margin:0 auto; }
     @media (max-width:44rem) {
       .cover-shell { padding:.5rem .5rem calc(var(--dock) + .5rem); }
       .back-cover { box-shadow:none; }
@@ -38,8 +40,8 @@
 <body>
   <main id="content" class="cover-shell">
     <section data-section-id="back_cover_sec001" aria-label="Back cover">
-      <img class="back-cover" src="images/science_standard_four_back_cover.png"
-        alt="Back cover of Science Pupil’s Book Standard Four. It shows nine other Standard Four books published by the Tanzania Institute of Education and the ISBN barcode 978-9912-753-80-8.">
+      <img data-id="back_cover_gp001_tx001" class="back-cover" src="images/science_standard_four_back_cover.png"
+        alt="The back cover presents nine other Standard Four textbooks from the Tanzania Institute of Education in a grid of three rows and three columns. They cover Tanzanian history and moral education, Mathematics, Geography and the Environment, English, Kiswahili, Arts and Sports, French, Chinese and Arabic. The institute’s emblem appears at the top. Below the books is a barcode with ISBN 978-9912-753-80-8. A yellow strip states that the book is government property and is not for sale.">
     </section>
   </main>
   <div class="relative z-50" id="interface-container"></div>

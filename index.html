@@ -29,6 +29,8 @@
       object-fit:contain;
       box-shadow:0 1.1rem 3rem rgba(0,86,92,.22);
     }
+    .cover-shell > section { max-width:44rem; min-width:0; }
+    .cover-shell img { margin:0 auto; }
     @media (max-width:44rem) {
       .cover-shell { padding:.5rem .5rem calc(var(--dock) + .5rem); }
       .front-cover { box-shadow:none; }
@@ -38,8 +40,8 @@
 <body>
   <main id="content" class="cover-shell">
     <section data-section-id="cover_sec001" aria-label="Front cover">
-      <img class="front-cover" src="images/science_standard_four_front_cover.png"
-        alt="Front cover of Science Pupil’s Book Standard Four. It shows a glowing sun above green hills on a teal background. Published by the Tanzania Institute of Education.">
+      <img data-id="cover_gp001_tx001" class="front-cover" src="images/science_standard_four_front_cover.png"
+        alt="This is the front cover of Science Pupil’s Book Standard Four, published by the Tanzania Institute of Education. The teal cover shows a bright yellow sun shining above green hills, with the institute’s name and emblem below. The title identifies this as a science textbook for Standard Four pupils. A yellow strip states that the book is property of the Government of the United Republic of Tanzania and is not for sale.">
     </section>
   </main>
   <div class="relative z-50" id="interface-container"></div>

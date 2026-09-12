@@ -2,16 +2,16 @@
   "version": 1,
   "videos": {
     "video-1": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:15:33Z",
       "filename": "sl_pg001_sec001.mp4",
-      "section_id": "pg001_sec001",
+      "section_id": "cover_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_1.mp4",
-      "source_size": 2956285,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 14127800,
+      "preset": "h264-720p-2078k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -30,16 +30,16 @@
       "trim_end": null
     },
     "video-3": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:25:25Z",
       "filename": "sl_pg003_sec001.mp4",
       "section_id": "pg003_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_3.mp4",
-      "source_size": 1226654,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 88530777,
+      "preset": "h264-540p-330k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -338,16 +338,16 @@
       "trim_end": null
     },
     "video-26": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:34:56Z",
       "filename": "sl_pg026_sec001.mp4",
       "section_id": "pg026_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_26.mp4",
-      "source_size": 4134632,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 44497496,
+      "preset": "h264-720p-620k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -492,16 +492,16 @@
       "trim_end": null
     },
     "video-37": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:42:33Z",
       "filename": "sl_pg034_sec001.mp4",
       "section_id": "pg034_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_37.mp4",
-      "source_size": 2274772,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 96328943,
+      "preset": "h264-540p-295k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -520,16 +520,16 @@
       "trim_end": null
     },
     "video-39": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:46:23Z",
       "filename": "sl_pg036_sec001.mp4",
       "section_id": "pg036_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_39.mp4",
-      "source_size": 3214378,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 122663410,
+      "preset": "h264-480p-232k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -618,16 +618,16 @@
       "trim_end": null
     },
     "video-46": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:50:18Z",
       "filename": "sl_pg043_sec001.mp4",
       "section_id": "pg043_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_46.mp4",
-      "source_size": 4993331,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 141096977,
+      "preset": "h264-480p-202k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -1010,16 +1010,16 @@
       "trim_end": null
     },
     "video-74": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T15:54:18Z",
       "filename": "sl_pg069_sec001.mp4",
       "section_id": "pg069_sec001",
       "languages": [
         "en-GB"
       ],
-      "source_name": "Page_74.mp4",
-      "source_size": 4096550,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_name": "page_74.mp4",
+      "source_size": 162733939,
+      "preset": "h264-480p-176k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -1150,16 +1150,16 @@
       "trim_end": null
     },
     "video-84": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg077_sec001.mp4",
       "section_id": "pg077_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_84.mp4",
-      "source_size": 4495080,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 16005740,
+      "preset": "h264-720p-1661k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -1192,16 +1192,16 @@
       "trim_end": null
     },
     "video-87": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg079_sec002.mp4",
       "section_id": "pg079_sec002",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_87.mp4",
-      "source_size": 3988385,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 103887007,
+      "preset": "h264-540p-281k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -1220,114 +1220,114 @@
       "trim_end": null
     },
     "video-89": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg082_sec001.mp4",
       "section_id": "pg082_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_89.mp4",
-      "source_size": 4906480,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 152314092,
+      "preset": "h264-480p-191k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-90": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg083_sec001.mp4",
       "section_id": "pg083_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_90.mp4",
-      "source_size": 3567446,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 120154848,
+      "preset": "h264-480p-243k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-91": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg084_sec001.mp4",
       "section_id": "pg084_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_91.mp4",
-      "source_size": 3439703,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 111979870,
+      "preset": "h264-480p-261k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-92": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg085_sec001.mp4",
       "section_id": "pg085_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_92.mp4",
-      "source_size": 3941319,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 86881641,
+      "preset": "h264-540p-336k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-93": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:24Z",
       "filename": "sl_pg086_sec001.mp4",
       "section_id": "pg086_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_93.mp4",
-      "source_size": 2690320,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 81121640,
+      "preset": "h264-540p-361k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-94": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:25Z",
       "filename": "sl_pg086_sec002.mp4",
       "section_id": "pg086_sec002",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_94.mp4",
-      "source_size": 1841900,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 76571365,
+      "preset": "h264-540p-380k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-95": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:25Z",
       "filename": "sl_pg087_sec001.mp4",
       "section_id": "pg087_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_95.mp4",
-      "source_size": 4819627,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 60432886,
+      "preset": "h264-540p-483k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
     "video-96": {
-      "imported_at": "2026-08-23T09:11:28Z",
+      "imported_at": "2026-09-12T16:07:25Z",
       "filename": "sl_pg088_sec001.mp4",
       "section_id": "pg088_sec001",
       "languages": [
         "en-GB"
       ],
       "source_name": "page_96.mp4",
-      "source_size": 4337071,
-      "preset": "copy",
-      "audio_mode": "keep",
+      "source_size": 122542855,
+      "preset": "h264-480p-238k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     },
@@ -2350,6 +2350,20 @@
       "source_size": 1306587,
       "preset": "copy",
       "audio_mode": "keep",
+      "trim_start": null,
+      "trim_end": null
+    },
+    "video-171": {
+      "imported_at": "2026-09-12T16:15:33Z",
+      "filename": "sl_back_cover_sec001.mp4",
+      "section_id": "back_cover_sec001",
+      "languages": [
+        "en-GB"
+      ],
+      "source_name": "page_171.mp4",
+      "source_size": 12852767,
+      "preset": "h264-720p-2272k",
+      "audio_mode": "remove",
       "trim_start": null,
       "trim_end": null
     }
